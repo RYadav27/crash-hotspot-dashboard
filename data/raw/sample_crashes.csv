@@ -1,0 +1,931 @@
+CRASH_ID,CRASH_DATE,CRASH_TIME,BOROUGH,LATITUDE,LONGITUDE,ON_STREET_NAME,NUMBER_OF_PERSONS_INJURED,NUMBER_OF_PERSONS_KILLED,CONTRIBUTING_FACTOR_VEHICLE_1,VEHICLE_TYPE_CODE_1
+100756,12/22/2024,10:51,MANHATTAN,40.77858,-73.947954,Unnamed Street,0,0,Unsafe Speed,SUV
+100669,03/09/2024,14:25,QUEENS,40.597028,-73.876628,Unnamed Street,0,0,Pavement Slippery,Taxi
+100030,02/11/2024,20:57,MANHATTAN,40.755222,-73.987039,Times Square area,2,0,Failure to Yield Right-of-Way,Box Truck
+100388,03/20/2024,17:03,BROOKLYN,40.693253,-73.99115,Downtown Brooklyn,0,0,Pavement Slippery,Box Truck
+100192,01/30/2024,16:29,MANHATTAN,40.729612,-73.991029,Union Square area,2,0,Traffic Control Disregarded,Taxi
+100355,02/19/2023,14:16,BROOKLYN,40.693831,-73.990446,Downtown Brooklyn,0,0,Alcohol Involvement,Bike
+100107,01/22/2024,18:40,MANHATTAN,40.760851,-73.983881,Times Square area,0,0,Alcohol Involvement,Pick-up Truck
+100487,07/05/2023,01:22,QUEENS,40.762651,-73.827734,"Flushing, Queens",1,0,Backing Unsafely,Taxi
+100477,01/09/2024,05:10,QUEENS,40.766781,-73.827873,"Flushing, Queens",3,0,Following Too Closely,Bus
+100451,01/24/2023,13:19,QUEENS,40.766408,-73.825928,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,SUV
+100512,03/12/2024,11:37,QUEENS,40.762823,-73.829359,"Flushing, Queens",0,0,Unspecified,Box Truck
+100352,11/13/2024,12:27,BROOKLYN,40.6917,-73.99414,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Pick-up Truck
+100883,01/15/2023,15:45,BROOKLYN,40.650848,-74.026612,Unnamed Street,1,0,Alcohol Involvement,Box Truck
+100751,02/09/2023,21:04,QUEENS,40.724436,-73.770892,Unnamed Street,0,0,Following Too Closely,Box Truck
+100554,09/21/2024,06:42,BRONX,40.858609,-73.889756,"Fordham Rd, The Bronx",2,0,Traffic Control Disregarded,SUV
+100239,08/11/2024,13:50,MANHATTAN,40.735952,-73.99292,Union Square area,1,0,Turning Improperly,Bike
+100096,10/18/2023,12:55,MANHATTAN,40.754819,-73.988854,Times Square area,2,0,Driver Inattention/Distraction,Bike
+100281,10/19/2024,07:41,MANHATTAN,40.731391,-73.991987,Union Square area,0,0,Traffic Control Disregarded,Bus
+100529,12/28/2023,07:33,QUEENS,40.761368,-73.829248,"Flushing, Queens",2,0,Following Too Closely,Box Truck
+100321,07/09/2023,10:51,BROOKLYN,40.697542,-73.993345,Downtown Brooklyn,0,0,Alcohol Involvement,Box Truck
+100538,11/09/2023,16:04,QUEENS,40.759465,-73.831659,"Flushing, Queens",0,0,Following Too Closely,Pick-up Truck
+100063,01/15/2024,19:53,MANHATTAN,40.762653,-73.985153,Times Square area,3,0,Alcohol Involvement,Sedan
+100039,03/13/2023,13:38,MANHATTAN,40.757288,-73.979884,Times Square area,0,0,Unsafe Speed,Box Truck
+100874,08/09/2023,16:30,STATEN ISLAND,40.555514,-73.874145,Unnamed Street,0,0,Backing Unsafely,Taxi
+100682,02/15/2023,00:02,QUEENS,40.846547,-74.012277,Unnamed Street,0,0,Pavement Slippery,Sedan
+100543,09/20/2024,07:25,BRONX,40.86397,-73.899546,"Fordham Rd, The Bronx",0,0,Turning Improperly,Pick-up Truck
+100858,10/26/2023,21:55,QUEENS,40.647734,-73.8232,Unnamed Street,1,0,Failure to Yield Right-of-Way,Bus
+100604,09/20/2024,17:36,BRONX,40.861676,-73.892687,"Fordham Rd, The Bronx",0,0,Turning Improperly,Pick-up Truck
+100839,03/23/2024,19:14,BROOKLYN,40.61042,-73.76639,Unnamed Street,0,0,Pavement Slippery,Bike
+100628,05/20/2024,17:38,BRONX,40.859982,-73.902628,"Fordham Rd, The Bronx",2,0,Turning Improperly,Sedan
+100215,12/03/2023,18:39,MANHATTAN,40.737994,-73.993134,Union Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100361,01/12/2023,15:48,BROOKLYN,40.690206,-73.985214,Downtown Brooklyn,0,0,Pavement Slippery,Bus
+100467,02/06/2023,12:42,QUEENS,40.76794,-73.838182,"Flushing, Queens",1,0,Unspecified,Bus
+100557,09/07/2023,13:38,BRONX,40.864759,-73.899045,"Fordham Rd, The Bronx",1,0,Failure to Yield Right-of-Way,Box Truck
+100208,01/26/2023,14:39,MANHATTAN,40.735592,-73.990865,Union Square area,0,0,Backing Unsafely,Box Truck
+100739,01/31/2024,12:18,BRONX,40.732038,-73.810212,Unnamed Street,0,0,Driver Inattention/Distraction,Pick-up Truck
+100370,01/16/2023,09:06,BROOKLYN,40.691363,-73.995621,Downtown Brooklyn,0,0,Backing Unsafely,Bus
+100828,06/02/2023,02:08,BROOKLYN,40.550072,-74.053502,Unnamed Street,1,0,Turning Improperly,Box Truck
+100235,09/04/2023,10:20,MANHATTAN,40.733806,-73.989573,Union Square area,1,0,Alcohol Involvement,Sedan
+100070,01/27/2024,20:13,MANHATTAN,40.758534,-73.985393,Times Square area,1,0,Unspecified,SUV
+100259,03/09/2024,19:54,MANHATTAN,40.736971,-73.988852,Union Square area,0,0,Following Too Closely,Taxi
+100741,10/05/2024,22:45,QUEENS,40.645916,-73.802761,Unnamed Street,1,0,Unspecified,Box Truck
+100879,07/19/2024,16:13,QUEENS,40.560552,-73.785271,Unnamed Street,1,0,Turning Improperly,Bike
+100120,02/17/2023,10:48,MANHATTAN,40.761767,-73.988184,Times Square area,0,0,Failure to Yield Right-of-Way,Sedan
+100576,03/01/2023,19:41,BRONX,40.855806,-73.899042,"Fordham Rd, The Bronx",0,0,Failure to Yield Right-of-Way,Sedan
+100316,02/21/2024,15:52,MANHATTAN,40.737472,-73.994166,Union Square area,1,0,Following Too Closely,Sedan
+100359,11/26/2023,16:05,BROOKLYN,40.695823,-73.996318,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Bike
+100923,10/31/2023,18:59,STATEN ISLAND,40.803321,-74.054311,Unnamed Street,0,0,Failure to Yield Right-of-Way,Sedan
+100429,09/14/2024,20:46,BROOKLYN,40.688523,-73.987861,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Sedan
+100638,05/09/2024,18:02,MANHATTAN,40.642901,-73.77487,Unnamed Street,0,0,Turning Improperly,Bike
+100023,10/16/2024,19:55,MANHATTAN,40.761898,-73.988101,Times Square area,2,0,Driver Inattention/Distraction,Bus
+100478,01/14/2023,13:41,QUEENS,40.762381,-73.832832,"Flushing, Queens",0,0,Alcohol Involvement,Pick-up Truck
+100827,03/29/2024,10:48,STATEN ISLAND,40.823473,-74.011752,Unnamed Street,0,0,Following Too Closely,Box Truck
+100712,09/21/2023,13:28,STATEN ISLAND,40.607501,-73.960182,Unnamed Street,0,0,Failure to Yield Right-of-Way,Box Truck
+100067,09/10/2023,20:02,MANHATTAN,40.754696,-73.984037,Times Square area,0,0,Pavement Slippery,Taxi
+100260,08/29/2024,15:32,MANHATTAN,40.734066,-73.99101,Union Square area,1,0,Alcohol Involvement,Bus
+100209,02/06/2024,18:07,MANHATTAN,40.733208,-73.995547,Union Square area,0,0,Driver Inattention/Distraction,Box Truck
+100837,01/18/2024,21:14,MANHATTAN,40.559884,-73.913949,Unnamed Street,0,0,Backing Unsafely,Bus
+100731,11/11/2024,00:48,BROOKLYN,40.757754,-74.052589,Unnamed Street,0,0,Alcohol Involvement,Bike
+100770,07/02/2023,05:42,QUEENS,40.552729,-74.119835,Unnamed Street,1,0,Backing Unsafely,SUV
+100462,12/29/2023,20:24,QUEENS,40.76481,-73.828952,"Flushing, Queens",0,0,Alcohol Involvement,SUV
+100500,11/19/2023,16:37,QUEENS,40.77015,-73.835153,"Flushing, Queens",0,0,Turning Improperly,Pick-up Truck
+100711,04/28/2023,17:28,MANHATTAN,40.588133,-73.978983,Unnamed Street,1,0,Driver Inattention/Distraction,Sedan
+100578,06/15/2023,17:51,BRONX,40.860279,-73.90271,"Fordham Rd, The Bronx",0,0,Driver Inattention/Distraction,SUV
+100158,04/21/2024,10:27,MANHATTAN,40.755943,-73.984673,Times Square area,0,0,Driver Inattention/Distraction,Bus
+100174,03/16/2023,13:47,MANHATTAN,40.757433,-73.983841,Times Square area,0,0,Following Too Closely,SUV
+100780,06/13/2024,15:37,BROOKLYN,40.661381,-73.94932,Unnamed Street,0,0,Driver Inattention/Distraction,Bus
+100486,08/21/2023,19:22,QUEENS,40.76515,-73.841363,"Flushing, Queens",1,0,Driver Inattention/Distraction,Bike
+100086,10/02/2024,10:37,MANHATTAN,40.762529,-73.984294,Times Square area,0,0,Unspecified,Bus
+100653,07/30/2024,19:10,QUEENS,40.681027,-73.9644,Unnamed Street,0,0,Driver Inattention/Distraction,Bike
+100603,09/08/2023,19:58,BRONX,40.856152,-73.896801,"Fordham Rd, The Bronx",0,0,Failure to Yield Right-of-Way,Taxi
+100928,09/02/2024,18:42,STATEN ISLAND,40.743728,-74.049967,Unnamed Street,0,0,Unspecified,Sedan
+100254,02/13/2023,20:50,MANHATTAN,40.737609,-73.992585,Union Square area,2,0,Turning Improperly,Taxi
+100605,10/04/2024,16:09,BRONX,40.859496,-73.89342,"Fordham Rd, The Bronx",1,0,Failure to Yield Right-of-Way,Box Truck
+100072,06/22/2024,08:38,MANHATTAN,40.755386,-73.98618,Times Square area,0,0,Pavement Slippery,Pick-up Truck
+100218,01/07/2023,08:04,MANHATTAN,40.735554,-73.994161,Union Square area,2,0,Following Too Closely,SUV
+100044,11/14/2024,03:24,MANHATTAN,40.754871,-73.981521,Times Square area,1,0,Pavement Slippery,Bike
+100581,01/15/2023,05:15,BRONX,40.859925,-73.892832,"Fordham Rd, The Bronx",0,0,Traffic Control Disregarded,Bus
+100662,01/13/2023,15:37,MANHATTAN,40.72634,-73.813861,Unnamed Street,0,1,Alcohol Involvement,Sedan
+100457,11/09/2023,17:42,QUEENS,40.77137,-73.830747,"Flushing, Queens",2,0,Traffic Control Disregarded,SUV
+100844,06/09/2023,12:20,MANHATTAN,40.765988,-73.848475,Unnamed Street,0,0,Unsafe Speed,Pick-up Truck
+100873,01/19/2023,13:46,QUEENS,40.677142,-73.890054,Unnamed Street,0,0,Driver Inattention/Distraction,Taxi
+100312,05/17/2024,08:37,MANHATTAN,40.733585,-73.990847,Union Square area,0,0,Backing Unsafely,Pick-up Truck
+100299,03/16/2024,11:56,MANHATTAN,40.736097,-73.991042,Union Square area,1,0,Turning Improperly,Box Truck
+100136,10/14/2023,08:36,MANHATTAN,40.761559,-73.986209,Times Square area,0,0,Backing Unsafely,SUV
+100597,07/25/2024,17:51,BRONX,40.856412,-73.905608,"Fordham Rd, The Bronx",1,0,Pavement Slippery,Pick-up Truck
+100909,03/08/2024,14:32,BROOKLYN,40.814332,-74.047335,Unnamed Street,1,0,Backing Unsafely,Sedan
+100332,07/21/2023,16:44,BROOKLYN,40.692546,-73.992317,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Bus
+100139,12/28/2024,12:12,MANHATTAN,40.752897,-73.986719,Times Square area,2,0,Backing Unsafely,SUV
+100887,05/12/2024,06:53,BRONX,40.787717,-74.059904,Unnamed Street,1,0,Unsafe Speed,Bike
+100872,05/08/2023,17:22,MANHATTAN,40.576767,-73.977607,Unnamed Street,0,0,Driver Inattention/Distraction,Pick-up Truck
+100292,04/02/2024,20:15,MANHATTAN,40.737384,-73.998451,Union Square area,1,0,Traffic Control Disregarded,Taxi
+100404,03/09/2024,05:10,BROOKLYN,40.694677,-73.987644,Downtown Brooklyn,1,0,Traffic Control Disregarded,SUV
+100060,12/09/2023,12:00,MANHATTAN,40.758827,-73.984664,Times Square area,0,0,Driver Inattention/Distraction,Bike
+100572,05/22/2023,13:57,BRONX,40.863405,-73.894768,"Fordham Rd, The Bronx",0,0,Turning Improperly,Bike
+100165,06/28/2023,18:46,MANHATTAN,40.757691,-73.98558,Times Square area,1,0,Unspecified,Sedan
+100423,06/16/2024,15:04,BROOKLYN,40.691886,-73.988083,Downtown Brooklyn,0,0,Alcohol Involvement,Box Truck
+100514,10/31/2024,18:33,QUEENS,40.763855,-73.832767,"Flushing, Queens",0,0,Unsafe Speed,Bus
+100231,10/19/2023,20:24,MANHATTAN,40.734739,-73.991965,Union Square area,3,0,Pavement Slippery,Pick-up Truck
+100696,03/03/2024,02:17,STATEN ISLAND,40.749922,-74.035838,Unnamed Street,2,0,Following Too Closely,Taxi
+100066,12/02/2023,22:52,MANHATTAN,40.75289,-73.985667,Times Square area,0,0,Following Too Closely,Box Truck
+100718,08/22/2023,09:31,BROOKLYN,40.655759,-73.860927,Unnamed Street,0,0,Unspecified,Bike
+100629,03/17/2023,09:41,BRONX,40.860771,-73.898143,"Fordham Rd, The Bronx",3,0,Driver Inattention/Distraction,Pick-up Truck
+100210,12/13/2024,16:02,MANHATTAN,40.734191,-73.989326,Union Square area,0,0,Alcohol Involvement,Sedan
+100651,04/02/2024,12:26,STATEN ISLAND,40.8104,-73.818726,Unnamed Street,0,0,Traffic Control Disregarded,Bike
+100847,10/04/2023,18:23,BROOKLYN,40.694904,-73.795267,Unnamed Street,0,0,Backing Unsafely,SUV
+100745,09/28/2024,16:48,BRONX,40.644625,-73.87696,Unnamed Street,3,0,Turning Improperly,Bike
+100507,11/18/2023,16:52,QUEENS,40.763375,-73.833009,"Flushing, Queens",0,0,Turning Improperly,Taxi
+100213,02/06/2024,11:49,MANHATTAN,40.735304,-73.993048,Union Square area,2,0,Unsafe Speed,Bus
+100327,09/17/2023,17:42,BROOKLYN,40.694405,-73.988022,Downtown Brooklyn,0,0,Turning Improperly,Bike
+100483,01/19/2024,17:35,QUEENS,40.762407,-73.82869,"Flushing, Queens",1,0,Backing Unsafely,Bus
+100675,08/30/2024,13:48,QUEENS,40.817292,-73.922201,Unnamed Street,0,0,Driver Inattention/Distraction,Taxi
+100706,05/06/2023,12:18,QUEENS,40.594814,-73.890697,Unnamed Street,0,0,Following Too Closely,Bus
+100110,02/19/2023,18:10,MANHATTAN,40.758442,-73.986168,Times Square area,0,0,Turning Improperly,Taxi
+100344,01/11/2024,14:35,BROOKLYN,40.691648,-73.989549,Downtown Brooklyn,3,0,Failure to Yield Right-of-Way,Box Truck
+100528,03/08/2023,16:48,QUEENS,40.765061,-73.835698,"Flushing, Queens",0,0,Following Too Closely,Pick-up Truck
+100717,05/30/2023,01:46,BROOKLYN,40.65162,-73.924505,Unnamed Street,0,0,Traffic Control Disregarded,Box Truck
+100925,11/15/2023,03:24,BRONX,40.828875,-74.076312,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100076,12/18/2024,06:01,MANHATTAN,40.750492,-73.983446,Times Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100893,05/18/2023,12:03,QUEENS,40.739177,-73.97016,Unnamed Street,0,0,Unsafe Speed,Box Truck
+100265,07/24/2023,08:12,MANHATTAN,40.73703,-73.9942,Union Square area,0,0,Driver Inattention/Distraction,Pick-up Truck
+100367,10/18/2023,14:54,BROOKLYN,40.69555,-73.992378,Downtown Brooklyn,1,0,Following Too Closely,Pick-up Truck
+100547,12/09/2023,17:30,BRONX,40.860549,-73.895697,"Fordham Rd, The Bronx",0,0,Backing Unsafely,Box Truck
+100342,04/27/2024,06:30,BROOKLYN,40.697179,-73.99546,Downtown Brooklyn,1,0,Failure to Yield Right-of-Way,Box Truck
+100915,10/03/2023,01:24,BROOKLYN,40.791757,-73.754105,Unnamed Street,0,0,Driver Inattention/Distraction,Bus
+100720,05/28/2023,02:42,BRONX,40.768591,-73.938773,Unnamed Street,3,0,Turning Improperly,Taxi
+100664,04/03/2023,13:01,MANHATTAN,40.611765,-74.009008,Unnamed Street,1,0,Turning Improperly,SUV
+100670,09/16/2023,22:06,MANHATTAN,40.637675,-74.032073,Unnamed Street,0,0,Pavement Slippery,Sedan
+100584,05/01/2024,14:47,BRONX,40.865599,-73.894689,"Fordham Rd, The Bronx",0,0,Alcohol Involvement,Box Truck
+100307,12/30/2024,06:53,MANHATTAN,40.741503,-73.992126,Union Square area,3,0,Alcohol Involvement,Taxi
+100692,12/21/2023,05:01,BROOKLYN,40.848694,-73.957927,Unnamed Street,2,0,Unspecified,SUV
+100168,08/27/2023,16:05,MANHATTAN,40.757268,-73.982608,Times Square area,2,0,Turning Improperly,Taxi
+100513,01/06/2023,02:07,QUEENS,40.765051,-73.835977,"Flushing, Queens",1,0,Alcohol Involvement,Bus
+100804,08/12/2024,01:36,BROOKLYN,40.566354,-73.88339,Unnamed Street,0,0,Alcohol Involvement,Taxi
+100137,12/12/2023,05:55,MANHATTAN,40.760256,-73.982569,Times Square area,0,0,Backing Unsafely,Taxi
+100506,02/28/2024,20:56,QUEENS,40.766708,-73.839397,"Flushing, Queens",2,0,Traffic Control Disregarded,Pick-up Truck
+100294,01/11/2023,17:24,MANHATTAN,40.734561,-73.988958,Union Square area,1,0,Unspecified,Bike
+100078,01/22/2024,17:13,MANHATTAN,40.759922,-73.987944,Times Square area,0,0,Backing Unsafely,Bike
+100767,09/09/2024,06:10,STATEN ISLAND,40.5657,-73.836861,Unnamed Street,0,0,Failure to Yield Right-of-Way,Box Truck
+100559,12/25/2024,19:42,BRONX,40.861745,-73.902577,"Fordham Rd, The Bronx",0,0,Alcohol Involvement,Taxi
+100482,09/05/2024,07:33,QUEENS,40.76755,-73.83812,"Flushing, Queens",2,0,Unspecified,Pick-up Truck
+100244,08/02/2024,10:02,MANHATTAN,40.737112,-73.993216,Union Square area,0,0,Unspecified,Pick-up Truck
+100596,12/21/2023,06:07,BRONX,40.86593,-73.896618,"Fordham Rd, The Bronx",0,0,Alcohol Involvement,Pick-up Truck
+100519,08/31/2023,18:12,QUEENS,40.762596,-73.831166,"Flushing, Queens",0,0,Following Too Closely,Taxi
+100849,02/13/2024,17:53,QUEENS,40.700581,-73.907971,Unnamed Street,1,0,Turning Improperly,Bus
+100065,03/08/2023,17:56,MANHATTAN,40.76047,-73.979343,Times Square area,0,0,Turning Improperly,SUV
+100141,08/23/2023,17:33,MANHATTAN,40.75246,-73.9872,Times Square area,0,0,Alcohol Involvement,Bus
+100869,11/21/2024,21:54,MANHATTAN,40.778139,-73.756028,Unnamed Street,1,0,Backing Unsafely,Taxi
+100734,09/24/2024,06:22,BROOKLYN,40.743264,-73.88971,Unnamed Street,2,0,Following Too Closely,SUV
+100617,01/23/2023,17:43,BRONX,40.858147,-73.898237,"Fordham Rd, The Bronx",0,0,Unsafe Speed,Bus
+100866,03/13/2023,08:58,STATEN ISLAND,40.748477,-74.055465,Unnamed Street,2,0,Pavement Slippery,Box Truck
+100398,05/01/2024,10:55,BROOKLYN,40.691186,-73.990099,Downtown Brooklyn,0,0,Turning Improperly,Bike
+100333,11/29/2024,07:55,BROOKLYN,40.690388,-73.988062,Downtown Brooklyn,0,0,Unsafe Speed,Taxi
+100428,01/08/2024,16:08,BROOKLYN,40.691002,-73.99363,Downtown Brooklyn,0,0,Unsafe Speed,Box Truck
+100544,08/09/2024,22:28,BRONX,40.863842,-73.899813,"Fordham Rd, The Bronx",1,0,Backing Unsafely,Taxi
+100049,12/08/2024,17:57,MANHATTAN,40.763441,-73.984286,Times Square area,1,0,Turning Improperly,Pick-up Truck
+100800,01/03/2024,03:59,MANHATTAN,40.656505,-73.95724,Unnamed Street,1,0,Failure to Yield Right-of-Way,Bus
+100417,02/24/2024,16:39,BROOKLYN,40.698017,-73.991264,Downtown Brooklyn,1,0,Turning Improperly,Box Truck
+100672,03/09/2023,22:24,STATEN ISLAND,40.606491,-74.028506,Unnamed Street,0,0,Following Too Closely,Pick-up Truck
+100877,02/09/2024,14:16,BROOKLYN,40.745941,-74.090607,Unnamed Street,1,0,Unspecified,Box Truck
+100302,07/18/2023,12:56,MANHATTAN,40.737291,-73.989069,Union Square area,0,0,Pavement Slippery,SUV
+100924,04/05/2024,17:16,STATEN ISLAND,40.745987,-74.121853,Unnamed Street,0,0,Following Too Closely,Pick-up Truck
+100296,02/26/2024,17:44,MANHATTAN,40.741174,-73.989138,Union Square area,3,0,Failure to Yield Right-of-Way,Sedan
+100760,08/22/2023,13:55,QUEENS,40.849055,-73.977863,Unnamed Street,0,0,Traffic Control Disregarded,Bus
+100033,09/04/2023,11:01,MANHATTAN,40.758697,-73.984971,Times Square area,0,0,Following Too Closely,Sedan
+100031,06/24/2024,17:42,MANHATTAN,40.761172,-73.985346,Times Square area,1,0,Pavement Slippery,Box Truck
+100704,07/08/2023,07:40,STATEN ISLAND,40.710941,-73.948948,Unnamed Street,0,0,Unsafe Speed,SUV
+100433,01/31/2023,16:58,BROOKLYN,40.689101,-73.99331,Downtown Brooklyn,1,0,Traffic Control Disregarded,Bus
+100531,03/09/2024,15:05,QUEENS,40.762037,-73.837856,"Flushing, Queens",1,0,Turning Improperly,Box Truck
+100721,10/02/2023,14:28,BROOKLYN,40.595379,-74.03613,Unnamed Street,0,0,Backing Unsafely,Box Truck
+100109,02/23/2024,18:20,MANHATTAN,40.757703,-73.978606,Times Square area,0,0,Failure to Yield Right-of-Way,Bus
+100077,05/03/2024,20:14,MANHATTAN,40.755828,-73.987098,Times Square area,0,0,Unsafe Speed,Pick-up Truck
+100833,08/09/2023,18:22,MANHATTAN,40.684271,-73.818228,Unnamed Street,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100589,06/30/2024,18:37,BRONX,40.861466,-73.903203,"Fordham Rd, The Bronx",2,0,Following Too Closely,Box Truck
+100082,04/07/2024,20:24,MANHATTAN,40.756279,-73.987542,Times Square area,2,0,Unspecified,Box Truck
+100306,12/06/2024,17:16,MANHATTAN,40.738313,-73.98801,Union Square area,1,0,Alcohol Involvement,Bike
+100425,07/13/2023,15:12,BROOKLYN,40.688842,-73.992124,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Taxi
+100448,10/17/2024,17:21,QUEENS,40.766648,-73.834194,"Flushing, Queens",0,0,Unspecified,Pick-up Truck
+100002,11/12/2023,09:58,MANHATTAN,40.758726,-73.99124,Times Square area,0,0,Following Too Closely,Bus
+100247,05/16/2024,06:03,MANHATTAN,40.733745,-73.990191,Union Square area,1,0,Unsafe Speed,Taxi
+100328,08/15/2023,08:42,BROOKLYN,40.694023,-73.988714,Downtown Brooklyn,1,0,Unspecified,SUV
+100405,04/15/2024,22:53,BROOKLYN,40.691242,-73.98984,Downtown Brooklyn,0,0,Turning Improperly,Bus
+100005,05/14/2023,17:05,MANHATTAN,40.756841,-73.988976,Times Square area,0,0,Failure to Yield Right-of-Way,SUV
+100054,12/25/2024,06:34,MANHATTAN,40.758209,-73.982549,Times Square area,1,0,Alcohol Involvement,Sedan
+100362,06/23/2024,08:37,BROOKLYN,40.695074,-73.985923,Downtown Brooklyn,0,0,Traffic Control Disregarded,SUV
+100497,05/08/2024,12:48,QUEENS,40.762321,-73.82811,"Flushing, Queens",1,0,Traffic Control Disregarded,Sedan
+100381,03/26/2023,15:28,BROOKLYN,40.694447,-73.983642,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Box Truck
+100499,03/25/2023,21:44,QUEENS,40.762466,-73.831805,"Flushing, Queens",0,0,Following Too Closely,Pick-up Truck
+100097,03/04/2024,09:50,MANHATTAN,40.761258,-73.986684,Times Square area,0,0,Driver Inattention/Distraction,SUV
+100250,09/11/2023,13:57,MANHATTAN,40.734487,-73.992127,Union Square area,1,0,Traffic Control Disregarded,Sedan
+100198,12/20/2023,17:30,MANHATTAN,40.734493,-73.992604,Union Square area,1,0,Following Too Closely,Sedan
+100590,07/09/2023,05:57,BRONX,40.861148,-73.895393,"Fordham Rd, The Bronx",0,0,Following Too Closely,Sedan
+100890,09/02/2024,21:10,STATEN ISLAND,40.631672,-73.996336,Unnamed Street,0,0,Turning Improperly,Bus
+100535,06/11/2023,07:12,QUEENS,40.76457,-73.830447,"Flushing, Queens",0,0,Unsafe Speed,SUV
+100903,08/31/2023,01:54,MANHATTAN,40.557165,-73.96999,Unnamed Street,0,0,Turning Improperly,Pick-up Truck
+100025,06/13/2023,17:32,MANHATTAN,40.761148,-73.981525,Times Square area,0,0,Unspecified,Box Truck
+100084,03/31/2024,07:05,MANHATTAN,40.760677,-73.985213,Times Square area,0,0,Pavement Slippery,Bus
+100010,12/10/2024,19:04,MANHATTAN,40.751867,-73.982292,Times Square area,1,0,Turning Improperly,Taxi
+100532,06/06/2023,09:51,QUEENS,40.765614,-73.835681,"Flushing, Queens",0,0,Backing Unsafely,Box Truck
+100323,06/26/2023,14:20,BROOKLYN,40.692914,-73.988546,Downtown Brooklyn,3,0,Traffic Control Disregarded,Pick-up Truck
+100904,03/08/2024,23:49,STATEN ISLAND,40.610046,-74.022164,Unnamed Street,0,0,Unspecified,Taxi
+100552,08/21/2024,16:48,BRONX,40.859134,-73.895952,"Fordham Rd, The Bronx",0,0,Turning Improperly,SUV
+100622,02/19/2024,18:35,BRONX,40.861756,-73.900378,"Fordham Rd, The Bronx",0,0,Traffic Control Disregarded,Sedan
+100118,12/09/2024,21:17,MANHATTAN,40.75934,-73.98614,Times Square area,1,0,Following Too Closely,SUV
+100908,06/23/2024,06:17,MANHATTAN,40.72389,-73.92779,Unnamed Street,1,0,Pavement Slippery,Bus
+100334,08/27/2023,18:44,BROOKLYN,40.687,-73.985234,Downtown Brooklyn,0,0,Turning Improperly,SUV
+100029,12/06/2024,21:32,MANHATTAN,40.757628,-73.983279,Times Square area,0,0,Turning Improperly,Sedan
+100055,04/03/2024,15:15,MANHATTAN,40.756704,-73.97992,Times Square area,1,0,Pavement Slippery,Pick-up Truck
+100649,08/02/2023,09:14,BROOKLYN,40.574434,-73.975994,Unnamed Street,0,0,Turning Improperly,Sedan
+100309,09/28/2023,19:53,MANHATTAN,40.739954,-73.992654,Union Square area,2,0,Turning Improperly,Bike
+100613,09/27/2023,16:16,BRONX,40.858725,-73.900611,"Fordham Rd, The Bronx",0,0,Following Too Closely,Pick-up Truck
+100643,08/18/2024,11:23,STATEN ISLAND,40.591116,-73.805115,Unnamed Street,2,0,Alcohol Involvement,Sedan
+100196,07/21/2024,07:27,MANHATTAN,40.73563,-73.991272,Union Square area,0,0,Failure to Yield Right-of-Way,Bike
+100439,06/07/2024,19:49,BROOKLYN,40.691615,-73.988574,Downtown Brooklyn,2,0,Turning Improperly,Box Truck
+100081,02/24/2024,18:07,MANHATTAN,40.75826,-73.985967,Times Square area,1,0,Following Too Closely,Bike
+100365,01/12/2023,06:33,BROOKLYN,40.692578,-73.991026,Downtown Brooklyn,0,0,Following Too Closely,Pick-up Truck
+100602,03/11/2023,12:56,BRONX,40.858758,-73.899294,"Fordham Rd, The Bronx",0,0,Unsafe Speed,SUV
+100762,11/24/2023,05:58,BRONX,40.767891,-74.062127,Unnamed Street,0,0,Unsafe Speed,Sedan
+100764,04/30/2023,16:11,MANHATTAN,40.697721,-73.815308,Unnamed Street,0,0,Driver Inattention/Distraction,Bus
+100814,11/09/2024,14:13,BROOKLYN,40.688175,-73.789696,Unnamed Street,0,0,Unspecified,SUV
+100261,10/26/2024,13:14,MANHATTAN,40.734605,-73.990497,Union Square area,1,0,Traffic Control Disregarded,Bike
+100204,06/22/2024,13:40,MANHATTAN,40.734792,-73.993312,Union Square area,1,0,Pavement Slippery,Bike
+100211,10/15/2024,10:35,MANHATTAN,40.735832,-73.989664,Union Square area,0,0,Traffic Control Disregarded,Bike
+100892,07/04/2023,19:02,BRONX,40.564005,-73.838187,Unnamed Street,0,0,Unspecified,Sedan
+100665,08/28/2023,05:57,BROOKLYN,40.703851,-74.01268,Unnamed Street,0,0,Failure to Yield Right-of-Way,Box Truck
+100525,06/25/2024,02:41,QUEENS,40.761209,-73.830784,"Flushing, Queens",0,0,Traffic Control Disregarded,Taxi
+100280,04/10/2023,06:45,MANHATTAN,40.73597,-73.990055,Union Square area,0,0,Pavement Slippery,Taxi
+100765,10/28/2023,06:41,MANHATTAN,40.68311,-73.793474,Unnamed Street,1,0,Turning Improperly,SUV
+100380,10/28/2023,17:28,BROOKLYN,40.693943,-73.987927,Downtown Brooklyn,0,0,Traffic Control Disregarded,Sedan
+100227,04/10/2024,14:46,MANHATTAN,40.733702,-73.99245,Union Square area,0,0,Turning Improperly,Sedan
+100793,03/11/2024,21:07,BRONX,40.798274,-73.978932,Unnamed Street,0,0,Failure to Yield Right-of-Way,Taxi
+100799,08/11/2024,05:41,BROOKLYN,40.564959,-73.908638,Unnamed Street,0,0,Pavement Slippery,Box Truck
+100286,02/20/2024,16:36,MANHATTAN,40.73663,-73.988851,Union Square area,1,0,Unsafe Speed,Sedan
+100778,06/04/2023,01:09,BRONX,40.715207,-73.772215,Unnamed Street,0,0,Unspecified,Bus
+100422,02/25/2024,15:56,BROOKLYN,40.69344,-73.987814,Downtown Brooklyn,1,0,Pavement Slippery,Taxi
+100059,12/17/2023,22:10,MANHATTAN,40.762199,-73.986842,Times Square area,1,0,Traffic Control Disregarded,Taxi
+100331,11/02/2024,23:31,BROOKLYN,40.690526,-73.994999,Downtown Brooklyn,0,0,Following Too Closely,Bus
+100305,03/07/2023,17:25,MANHATTAN,40.736876,-73.991358,Union Square area,1,0,Alcohol Involvement,Box Truck
+100394,08/22/2024,16:31,BROOKLYN,40.690077,-73.985742,Downtown Brooklyn,0,0,Alcohol Involvement,Box Truck
+100266,07/27/2023,13:52,MANHATTAN,40.736645,-73.990378,Union Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100616,11/30/2023,13:43,BRONX,40.862144,-73.896765,"Fordham Rd, The Bronx",0,0,Driver Inattention/Distraction,Pick-up Truck
+100310,11/10/2024,07:02,MANHATTAN,40.735654,-73.992185,Union Square area,0,0,Unsafe Speed,Bus
+100007,07/18/2023,18:25,MANHATTAN,40.754973,-73.99025,Times Square area,3,0,Alcohol Involvement,Bike
+100456,11/13/2024,20:41,QUEENS,40.766461,-73.832568,"Flushing, Queens",0,0,Pavement Slippery,Pick-up Truck
+100155,06/13/2024,13:01,MANHATTAN,40.753315,-73.979495,Times Square area,1,0,Turning Improperly,SUV
+100598,12/17/2024,13:22,BRONX,40.85975,-73.894341,"Fordham Rd, The Bronx",0,0,Turning Improperly,Bike
+100867,12/02/2024,10:47,MANHATTAN,40.826596,-74.071978,Unnamed Street,0,0,Following Too Closely,Sedan
+100101,06/27/2023,17:55,MANHATTAN,40.756948,-73.986188,Times Square area,1,0,Backing Unsafely,Bike
+100199,05/20/2024,05:03,MANHATTAN,40.734366,-73.991856,Union Square area,1,0,Unsafe Speed,Box Truck
+100432,07/01/2024,12:07,BROOKLYN,40.688497,-73.993472,Downtown Brooklyn,1,0,Unspecified,Sedan
+100371,10/27/2023,16:00,BROOKLYN,40.693556,-73.991428,Downtown Brooklyn,2,0,Unsafe Speed,Sedan
+100319,04/20/2024,16:31,MANHATTAN,40.73637,-73.995084,Union Square area,0,0,Pavement Slippery,Bus
+100755,09/17/2024,16:14,BRONX,40.564334,-74.009108,Unnamed Street,0,0,Alcohol Involvement,Box Truck
+100835,12/30/2023,09:34,BRONX,40.730287,-74.136281,Unnamed Street,0,0,Unsafe Speed,SUV
+100599,11/19/2024,08:46,BRONX,40.862139,-73.892448,"Fordham Rd, The Bronx",0,0,Following Too Closely,Taxi
+100326,11/16/2023,15:54,BROOKLYN,40.688006,-73.988913,Downtown Brooklyn,0,0,Traffic Control Disregarded,Bus
+100694,04/05/2023,06:39,MANHATTAN,40.739463,-73.932824,Unnamed Street,0,0,Pavement Slippery,Bike
+100542,05/13/2024,10:16,BRONX,40.861994,-73.897275,"Fordham Rd, The Bronx",1,0,Following Too Closely,Pick-up Truck
+100311,10/11/2024,09:34,MANHATTAN,40.733648,-73.989504,Union Square area,1,0,Traffic Control Disregarded,SUV
+100534,05/10/2024,20:41,QUEENS,40.77111,-73.829538,"Flushing, Queens",1,0,Alcohol Involvement,Taxi
+100865,09/25/2024,11:16,QUEENS,40.585977,-74.021707,Unnamed Street,0,0,Traffic Control Disregarded,SUV
+100351,10/23/2024,01:15,BROOKLYN,40.696436,-73.989516,Downtown Brooklyn,0,0,Unsafe Speed,Taxi
+100464,07/13/2023,09:01,QUEENS,40.765042,-73.830979,"Flushing, Queens",2,0,Traffic Control Disregarded,Taxi
+100539,10/25/2024,11:24,QUEENS,40.767189,-73.833703,"Flushing, Queens",0,0,Driver Inattention/Distraction,Taxi
+100802,03/13/2023,16:33,BROOKLYN,40.838483,-74.024862,Unnamed Street,0,0,Following Too Closely,Bike
+100420,01/10/2024,19:53,BROOKLYN,40.697987,-73.990077,Downtown Brooklyn,0,0,Alcohol Involvement,Bike
+100382,05/10/2024,18:38,BROOKLYN,40.693675,-73.991575,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Taxi
+100541,02/03/2024,20:06,BRONX,40.859922,-73.890189,"Fordham Rd, The Bronx",2,0,Alcohol Involvement,Pick-up Truck
+100298,04/22/2023,09:53,MANHATTAN,40.731918,-73.992994,Union Square area,0,0,Driver Inattention/Distraction,Sedan
+100714,02/11/2024,09:09,BROOKLYN,40.731372,-73.938895,Unnamed Street,1,0,Driver Inattention/Distraction,Box Truck
+100212,08/15/2024,16:10,MANHATTAN,40.739721,-73.98983,Union Square area,0,0,Failure to Yield Right-of-Way,Box Truck
+100079,09/03/2023,07:22,MANHATTAN,40.756044,-73.985358,Times Square area,0,0,Unspecified,SUV
+100148,02/19/2024,17:49,MANHATTAN,40.754995,-73.986343,Times Square area,1,0,Driver Inattention/Distraction,Taxi
+100275,09/13/2024,12:44,MANHATTAN,40.735479,-73.992719,Union Square area,0,0,Pavement Slippery,Pick-up Truck
+100426,10/25/2024,13:48,BROOKLYN,40.690831,-73.992499,Downtown Brooklyn,1,0,Turning Improperly,SUV
+100442,09/17/2023,04:43,QUEENS,40.759983,-73.827679,"Flushing, Queens",1,0,Failure to Yield Right-of-Way,Bike
+100409,03/18/2024,19:15,BROOKLYN,40.690378,-73.990747,Downtown Brooklyn,1,0,Unspecified,Taxi
+100408,02/23/2024,09:35,BROOKLYN,40.68949,-73.991238,Downtown Brooklyn,0,0,Unspecified,Taxi
+100133,05/24/2024,16:26,MANHATTAN,40.760461,-73.983978,Times Square area,1,0,Pavement Slippery,Sedan
+100606,08/08/2023,08:20,BRONX,40.863291,-73.894318,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Bike
+100593,01/15/2024,08:19,BRONX,40.854826,-73.896631,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Bus
+100485,05/14/2024,20:22,QUEENS,40.763707,-73.832013,"Flushing, Queens",1,0,Driver Inattention/Distraction,Sedan
+100494,04/20/2024,18:50,QUEENS,40.768164,-73.834062,"Flushing, Queens",1,0,Pavement Slippery,SUV
+100752,02/11/2024,12:38,MANHATTAN,40.687884,-73.898598,Unnamed Street,0,0,Backing Unsafely,Taxi
+100567,10/29/2023,03:25,BRONX,40.860338,-73.899927,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Sedan
+100290,01/09/2024,13:49,MANHATTAN,40.734411,-73.987664,Union Square area,1,0,Failure to Yield Right-of-Way,Bus
+100919,08/09/2024,02:44,BRONX,40.557723,-74.013581,Unnamed Street,0,0,Alcohol Involvement,Bus
+100912,11/07/2023,12:50,STATEN ISLAND,40.616977,-73.781077,Unnamed Street,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100314,07/10/2024,13:15,MANHATTAN,40.735627,-73.992321,Union Square area,1,0,Pavement Slippery,Bus
+100172,10/19/2023,15:43,MANHATTAN,40.75453,-73.990098,Times Square area,0,0,Turning Improperly,Pick-up Truck
+100490,08/22/2023,13:00,QUEENS,40.765129,-73.828868,"Flushing, Queens",0,0,Traffic Control Disregarded,Bike
+100430,07/18/2024,20:07,BROOKLYN,40.691515,-73.996441,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Taxi
+100363,10/29/2024,12:14,BROOKLYN,40.693476,-73.991409,Downtown Brooklyn,1,0,Pavement Slippery,Taxi
+100836,11/03/2024,00:48,BRONX,40.791682,-74.12669,Unnamed Street,0,0,Failure to Yield Right-of-Way,Bus
+100090,10/01/2023,05:50,MANHATTAN,40.761615,-73.983483,Times Square area,1,0,Traffic Control Disregarded,Taxi
+100870,09/30/2023,08:12,QUEENS,40.80488,-73.957946,Unnamed Street,0,0,Failure to Yield Right-of-Way,SUV
+100181,04/10/2024,09:12,MANHATTAN,40.734149,-73.992707,Union Square area,1,0,Failure to Yield Right-of-Way,Taxi
+100656,07/26/2024,09:49,MANHATTAN,40.807499,-73.964551,Unnamed Street,0,0,Traffic Control Disregarded,Sedan
+100829,10/20/2024,18:51,BROOKLYN,40.556317,-74.13543,Unnamed Street,0,0,Following Too Closely,Sedan
+100069,03/09/2023,13:21,MANHATTAN,40.754345,-73.988981,Times Square area,0,0,Driver Inattention/Distraction,SUV
+100291,02/23/2024,21:47,MANHATTAN,40.737203,-73.989487,Union Square area,3,0,Driver Inattention/Distraction,Sedan
+100131,03/21/2023,19:12,MANHATTAN,40.759653,-73.985383,Times Square area,2,0,Following Too Closely,SUV
+100300,08/22/2024,15:19,MANHATTAN,40.735558,-73.988375,Union Square area,1,0,Backing Unsafely,Bike
+100357,04/24/2024,22:42,BROOKLYN,40.690034,-73.993312,Downtown Brooklyn,1,0,Traffic Control Disregarded,Bus
+100144,05/27/2023,13:21,MANHATTAN,40.755971,-73.980097,Times Square area,1,0,Unspecified,Taxi
+100135,12/17/2024,16:30,MANHATTAN,40.760453,-73.989968,Times Square area,0,0,Following Too Closely,Pick-up Truck
+100164,05/28/2023,16:49,MANHATTAN,40.761325,-73.98862,Times Square area,0,0,Traffic Control Disregarded,Bike
+100028,02/22/2024,18:16,MANHATTAN,40.757986,-73.990212,Times Square area,3,0,Unsafe Speed,Pick-up Truck
+100810,10/25/2024,18:30,STATEN ISLAND,40.740167,-74.121237,Unnamed Street,0,0,Alcohol Involvement,SUV
+100193,03/01/2023,12:01,MANHATTAN,40.73423,-73.98862,Union Square area,0,0,Backing Unsafely,SUV
+100411,02/15/2023,10:38,BROOKLYN,40.696377,-73.99066,Downtown Brooklyn,0,0,Driver Inattention/Distraction,SUV
+100591,05/02/2023,11:21,BRONX,40.867046,-73.893828,"Fordham Rd, The Bronx",2,0,Following Too Closely,SUV
+100169,08/05/2023,16:20,MANHATTAN,40.757041,-73.982655,Times Square area,0,0,Turning Improperly,Box Truck
+100412,06/03/2023,08:19,BROOKLYN,40.690801,-73.990833,Downtown Brooklyn,0,0,Backing Unsafely,Box Truck
+100140,04/06/2023,19:43,MANHATTAN,40.75583,-73.983307,Times Square area,0,0,Unsafe Speed,Taxi
+100173,01/16/2024,18:42,MANHATTAN,40.760565,-73.982562,Times Square area,0,0,Alcohol Involvement,Bus
+100006,11/07/2024,17:14,MANHATTAN,40.751465,-73.988632,Times Square area,0,0,Alcohol Involvement,Pick-up Truck
+100595,06/22/2024,03:43,BRONX,40.854805,-73.897615,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Pick-up Truck
+100658,01/30/2023,04:02,QUEENS,40.587575,-73.887796,Unnamed Street,1,0,Unsafe Speed,SUV
+100073,07/30/2024,14:46,MANHATTAN,40.763061,-73.982855,Times Square area,1,0,Unspecified,Sedan
+100723,12/22/2023,02:08,BRONX,40.600435,-73.945096,Unnamed Street,2,0,Following Too Closely,Bike
+100350,07/31/2023,19:50,BROOKLYN,40.691363,-73.992888,Downtown Brooklyn,0,0,Unspecified,Box Truck
+100493,05/24/2023,07:41,QUEENS,40.768536,-73.830751,"Flushing, Queens",0,0,Turning Improperly,Taxi
+100145,10/16/2023,22:37,MANHATTAN,40.763888,-73.986655,Times Square area,0,0,Driver Inattention/Distraction,Bus
+100234,11/14/2024,04:43,MANHATTAN,40.736067,-73.98981,Union Square area,1,0,Unsafe Speed,SUV
+100220,09/05/2024,18:13,MANHATTAN,40.738892,-73.990892,Union Square area,0,0,Alcohol Involvement,Bus
+100916,04/04/2023,05:32,MANHATTAN,40.597485,-73.874753,Unnamed Street,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100621,12/08/2023,15:37,BRONX,40.859564,-73.896622,"Fordham Rd, The Bronx",0,0,Failure to Yield Right-of-Way,Sedan
+100132,02/01/2024,19:32,MANHATTAN,40.763595,-73.983039,Times Square area,2,0,Unspecified,Bus
+100495,07/04/2023,10:41,QUEENS,40.771313,-73.831858,"Flushing, Queens",0,0,Unspecified,Taxi
+100346,04/25/2023,07:48,BROOKLYN,40.694725,-73.993642,Downtown Brooklyn,1,0,Turning Improperly,Sedan
+100185,06/18/2023,13:21,MANHATTAN,40.740124,-73.988924,Union Square area,1,0,Failure to Yield Right-of-Way,Pick-up Truck
+100041,05/09/2024,15:32,MANHATTAN,40.761517,-73.983906,Times Square area,0,0,Unsafe Speed,Bus
+100687,03/10/2023,13:43,BROOKLYN,40.675215,-74.092275,Unnamed Street,1,0,Unspecified,SUV
+100108,01/09/2023,07:56,MANHATTAN,40.756593,-73.983919,Times Square area,0,0,Failure to Yield Right-of-Way,Bus
+100857,08/23/2023,16:35,STATEN ISLAND,40.629586,-73.788419,Unnamed Street,3,0,Alcohol Involvement,Taxi
+100056,07/22/2023,08:25,MANHATTAN,40.764569,-73.987925,Times Square area,0,0,Unsafe Speed,Sedan
+100809,07/24/2024,16:05,MANHATTAN,40.829447,-73.786636,Unnamed Street,0,0,Unspecified,Taxi
+100825,06/10/2024,13:08,STATEN ISLAND,40.751685,-73.946523,Unnamed Street,1,0,Alcohol Involvement,Pick-up Truck
+100521,09/01/2023,17:27,QUEENS,40.766901,-73.833401,"Flushing, Queens",1,0,Backing Unsafely,Bike
+100024,01/07/2023,06:34,MANHATTAN,40.758679,-73.982958,Times Square area,3,0,Failure to Yield Right-of-Way,SUV
+100377,01/11/2024,07:32,BROOKLYN,40.695727,-73.987545,Downtown Brooklyn,0,0,Pavement Slippery,Taxi
+100465,10/14/2023,02:25,QUEENS,40.76565,-73.83336,"Flushing, Queens",2,0,Pavement Slippery,Bus
+100615,07/01/2024,10:42,BRONX,40.861116,-73.893378,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Sedan
+100338,02/03/2023,09:44,BROOKLYN,40.684025,-73.986557,Downtown Brooklyn,0,0,Alcohol Involvement,Sedan
+100051,11/22/2024,22:03,MANHATTAN,40.761463,-73.986932,Times Square area,0,0,Following Too Closely,Bike
+100440,06/16/2024,21:20,QUEENS,40.764967,-73.834641,"Flushing, Queens",0,0,Traffic Control Disregarded,Bike
+100852,04/18/2023,03:26,BRONX,40.630163,-73.946355,Unnamed Street,0,0,Turning Improperly,Taxi
+100587,05/20/2023,15:18,BRONX,40.856303,-73.894622,"Fordham Rd, The Bronx",0,0,Unsafe Speed,Box Truck
+100264,02/03/2023,07:59,MANHATTAN,40.734801,-73.996619,Union Square area,0,0,Driver Inattention/Distraction,Taxi
+100891,08/02/2023,00:01,MANHATTAN,40.798023,-73.817693,Unnamed Street,1,0,Pavement Slippery,Bike
+100631,05/30/2024,20:48,QUEENS,40.788993,-74.014807,Unnamed Street,1,0,Turning Improperly,Bus
+100523,11/13/2023,07:40,QUEENS,40.766926,-73.826908,"Flushing, Queens",0,0,Turning Improperly,Taxi
+100797,12/30/2024,16:32,BROOKLYN,40.801059,-73.921074,Unnamed Street,0,0,Alcohol Involvement,Pick-up Truck
+100018,06/23/2023,17:23,MANHATTAN,40.761428,-73.983244,Times Square area,0,0,Traffic Control Disregarded,Taxi
+100710,06/22/2023,08:09,BRONX,40.620107,-73.894319,Unnamed Street,1,0,Pavement Slippery,Bike
+100526,08/04/2024,17:47,QUEENS,40.767245,-73.826464,"Flushing, Queens",0,0,Backing Unsafely,Bike
+100594,07/01/2024,18:43,BRONX,40.864495,-73.897634,"Fordham Rd, The Bronx",0,0,Unspecified,Box Truck
+100083,03/31/2024,14:14,MANHATTAN,40.759658,-73.984613,Times Square area,1,0,Turning Improperly,SUV
+100061,11/20/2024,19:16,MANHATTAN,40.762549,-73.984563,Times Square area,0,0,Driver Inattention/Distraction,Taxi
+100272,01/08/2023,16:53,MANHATTAN,40.73884,-73.995435,Union Square area,0,0,Following Too Closely,Bus
+100285,12/30/2024,07:33,MANHATTAN,40.736633,-73.994058,Union Square area,0,0,Driver Inattention/Distraction,Taxi
+100360,06/05/2023,21:20,BROOKLYN,40.699266,-73.993233,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100354,07/24/2024,18:28,BROOKLYN,40.691123,-73.98928,Downtown Brooklyn,0,0,Failure to Yield Right-of-Way,Box Truck
+100722,03/23/2023,18:10,STATEN ISLAND,40.741505,-73.870246,Unnamed Street,0,0,Unsafe Speed,SUV
+100501,05/12/2023,09:47,QUEENS,40.76451,-73.832874,"Flushing, Queens",1,0,Backing Unsafely,Sedan
+100012,01/30/2024,08:12,MANHATTAN,40.758893,-73.988584,Times Square area,0,0,Traffic Control Disregarded,Bus
+100182,11/20/2023,13:40,MANHATTAN,40.740081,-73.988793,Union Square area,1,0,Following Too Closely,Bus
+100368,03/02/2024,14:48,BROOKLYN,40.69485,-73.990928,Downtown Brooklyn,2,0,Unsafe Speed,Sedan
+100679,07/31/2024,14:28,MANHATTAN,40.654857,-74.023712,Unnamed Street,0,0,Turning Improperly,Taxi
+100570,08/18/2023,16:38,BRONX,40.860392,-73.899285,"Fordham Rd, The Bronx",1,0,Backing Unsafely,Bike
+100223,03/09/2023,15:03,MANHATTAN,40.738816,-73.992532,Union Square area,0,0,Unsafe Speed,SUV
+100530,10/28/2024,15:18,QUEENS,40.770076,-73.833116,"Flushing, Queens",0,0,Unspecified,Box Truck
+100807,05/04/2024,10:19,BROOKLYN,40.667086,-74.107563,Unnamed Street,0,0,Pavement Slippery,SUV
+100424,07/02/2023,09:12,BROOKLYN,40.694026,-73.991223,Downtown Brooklyn,1,0,Driver Inattention/Distraction,Bus
+100436,11/13/2024,08:15,BROOKLYN,40.69579,-73.991699,Downtown Brooklyn,0,0,Alcohol Involvement,Box Truck
+100750,03/25/2024,22:07,MANHATTAN,40.568033,-73.783626,Unnamed Street,0,0,Turning Improperly,Bike
+100861,02/02/2024,07:48,STATEN ISLAND,40.612347,-73.948372,Unnamed Street,2,0,Unspecified,Pick-up Truck
+100176,03/20/2023,15:41,MANHATTAN,40.76354,-73.984833,Times Square area,2,0,Traffic Control Disregarded,Box Truck
+100618,12/09/2023,19:29,BRONX,40.855414,-73.897363,"Fordham Rd, The Bronx",1,0,Backing Unsafely,Bus
+100481,12/26/2023,16:56,QUEENS,40.768984,-73.829038,"Flushing, Queens",3,0,Unsafe Speed,Bus
+100449,06/02/2023,06:16,QUEENS,40.763649,-73.828685,"Flushing, Queens",0,0,Following Too Closely,Pick-up Truck
+100163,11/28/2023,14:49,MANHATTAN,40.760749,-73.984461,Times Square area,0,0,Turning Improperly,Pick-up Truck
+100248,08/20/2024,14:18,MANHATTAN,40.736746,-73.991839,Union Square area,1,0,Failure to Yield Right-of-Way,Box Truck
+100588,11/11/2023,07:22,BRONX,40.860013,-73.896622,"Fordham Rd, The Bronx",1,0,Following Too Closely,Bike
+100820,03/08/2024,13:47,MANHATTAN,40.777157,-74.027741,Unnamed Street,0,0,Unspecified,Pick-up Truck
+100375,01/16/2024,18:22,BROOKLYN,40.691376,-73.987201,Downtown Brooklyn,1,0,Following Too Closely,Pick-up Truck
+100074,09/04/2023,20:33,MANHATTAN,40.751977,-73.982298,Times Square area,0,0,Traffic Control Disregarded,Bike
+100113,05/29/2024,15:24,MANHATTAN,40.754862,-73.990842,Times Square area,0,0,Unsafe Speed,Bus
+100527,08/21/2023,12:10,QUEENS,40.762615,-73.830097,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,Taxi
+100518,03/25/2023,13:04,QUEENS,40.766987,-73.831629,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,SUV
+100390,07/24/2024,17:38,BROOKLYN,40.694172,-73.985933,Downtown Brooklyn,1,0,Following Too Closely,Bike
+100104,03/31/2024,12:29,MANHATTAN,40.75333,-73.983682,Times Square area,0,0,Following Too Closely,Bus
+100114,03/06/2024,11:43,MANHATTAN,40.754737,-73.982712,Times Square area,1,0,Driver Inattention/Distraction,SUV
+100666,12/29/2023,23:47,QUEENS,40.792758,-73.880867,Unnamed Street,0,0,Driver Inattention/Distraction,Bike
+100092,10/04/2023,17:09,MANHATTAN,40.759613,-73.989576,Times Square area,1,0,Alcohol Involvement,Taxi
+100522,12/02/2023,16:22,QUEENS,40.766318,-73.829447,"Flushing, Queens",1,0,Following Too Closely,Bus
+100089,10/27/2024,07:17,MANHATTAN,40.760441,-73.990003,Times Square area,1,0,Backing Unsafely,Bus
+100336,01/24/2023,16:26,BROOKLYN,40.695038,-73.995175,Downtown Brooklyn,0,0,Unsafe Speed,Sedan
+100918,06/08/2024,21:28,STATEN ISLAND,40.663407,-74.108822,Unnamed Street,1,0,Pavement Slippery,Taxi
+100853,11/17/2023,12:25,MANHATTAN,40.71459,-73.760642,Unnamed Street,1,0,Pavement Slippery,Bus
+100864,12/06/2024,14:32,STATEN ISLAND,40.786787,-74.137515,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100850,11/11/2024,17:18,BROOKLYN,40.589324,-73.843537,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100551,12/13/2023,13:24,BRONX,40.860547,-73.899617,"Fordham Rd, The Bronx",1,0,Unsafe Speed,Bike
+100880,08/31/2024,20:25,QUEENS,40.778182,-74.082716,Unnamed Street,0,0,Alcohol Involvement,Bike
+100094,11/02/2023,20:48,MANHATTAN,40.75798,-73.989457,Times Square area,1,0,Pavement Slippery,Bus
+100011,01/19/2023,06:31,MANHATTAN,40.750141,-73.983034,Times Square area,1,0,Backing Unsafely,Pick-up Truck
+100396,08/17/2024,18:22,BROOKLYN,40.695345,-73.993998,Downtown Brooklyn,3,0,Pavement Slippery,Bike
+100468,09/04/2023,19:29,QUEENS,40.765068,-73.83449,"Flushing, Queens",0,0,Turning Improperly,Bike
+100043,08/21/2023,19:25,MANHATTAN,40.756541,-73.984877,Times Square area,0,0,Turning Improperly,Bus
+100042,10/22/2024,08:12,MANHATTAN,40.759318,-73.985825,Times Square area,0,0,Following Too Closely,SUV
+100329,01/09/2023,00:36,BROOKLYN,40.692781,-73.985613,Downtown Brooklyn,0,0,Unsafe Speed,SUV
+100167,09/24/2024,23:12,MANHATTAN,40.75316,-73.982707,Times Square area,1,0,Alcohol Involvement,Taxi
+100811,07/12/2023,08:12,BROOKLYN,40.64192,-74.089084,Unnamed Street,1,0,Unspecified,Taxi
+100736,01/14/2023,03:50,QUEENS,40.602193,-74.015009,Unnamed Street,0,0,Driver Inattention/Distraction,SUV
+100886,06/05/2023,07:14,MANHATTAN,40.571772,-73.809873,Unnamed Street,0,0,Alcohol Involvement,Bike
+100100,01/05/2024,15:56,MANHATTAN,40.755688,-73.987372,Times Square area,1,0,Driver Inattention/Distraction,Bus
+100178,03/22/2024,12:41,MANHATTAN,40.755894,-73.987489,Times Square area,2,0,Pavement Slippery,Taxi
+100416,03/02/2023,13:30,BROOKLYN,40.692514,-73.995629,Downtown Brooklyn,0,0,Unsafe Speed,SUV
+100601,05/26/2024,09:18,BRONX,40.861842,-73.894652,"Fordham Rd, The Bronx",1,0,Pavement Slippery,Box Truck
+100817,05/05/2024,11:39,QUEENS,40.66388,-73.847976,Unnamed Street,0,0,Unsafe Speed,Bus
+100611,06/24/2023,16:08,BRONX,40.857982,-73.902828,"Fordham Rd, The Bronx",2,0,Following Too Closely,Pick-up Truck
+100177,01/20/2024,06:12,MANHATTAN,40.756615,-73.982043,Times Square area,1,0,Traffic Control Disregarded,Bus
+100803,06/23/2024,09:07,STATEN ISLAND,40.679975,-73.830123,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100626,12/06/2024,21:50,BRONX,40.860231,-73.899314,"Fordham Rd, The Bronx",0,0,Alcohol Involvement,Sedan
+100735,05/04/2023,12:41,MANHATTAN,40.700087,-73.983938,Unnamed Street,0,0,Following Too Closely,Box Truck
+100633,10/11/2023,05:58,QUEENS,40.827748,-73.886003,Unnamed Street,0,0,Following Too Closely,SUV
+100383,02/14/2024,16:31,BROOKLYN,40.692663,-73.992595,Downtown Brooklyn,1,0,Traffic Control Disregarded,Bus
+100257,07/25/2023,19:13,MANHATTAN,40.738122,-73.992417,Union Square area,0,0,Backing Unsafely,Sedan
+100545,02/09/2023,17:26,BRONX,40.860806,-73.897481,"Fordham Rd, The Bronx",0,0,Turning Improperly,Sedan
+100335,07/23/2024,13:14,BROOKLYN,40.692233,-73.987535,Downtown Brooklyn,0,0,Unspecified,Sedan
+100569,04/17/2023,21:22,BRONX,40.857471,-73.896237,"Fordham Rd, The Bronx",1,0,Failure to Yield Right-of-Way,Taxi
+100015,06/12/2023,07:43,MANHATTAN,40.750034,-73.984463,Times Square area,0,0,Unspecified,Sedan
+100003,02/03/2023,15:20,MANHATTAN,40.765678,-73.984317,Times Square area,0,0,Alcohol Involvement,Bus
+100444,03/14/2023,06:36,QUEENS,40.767843,-73.833947,"Flushing, Queens",0,0,Unsafe Speed,Sedan
+100256,09/18/2024,09:50,MANHATTAN,40.735345,-73.990046,Union Square area,1,0,Backing Unsafely,Bike
+100905,03/22/2023,08:58,STATEN ISLAND,40.792381,-74.074059,Unnamed Street,1,0,Unsafe Speed,Sedan
+100655,07/02/2024,19:02,BRONX,40.626528,-73.842849,Unnamed Street,0,0,Pavement Slippery,Bike
+100447,03/26/2023,02:00,QUEENS,40.763676,-73.83306,"Flushing, Queens",0,0,Driver Inattention/Distraction,Sedan
+100393,09/20/2024,19:09,BROOKLYN,40.693969,-73.993986,Downtown Brooklyn,0,0,Driver Inattention/Distraction,SUV
+100222,04/11/2023,16:53,MANHATTAN,40.734206,-73.989421,Union Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100179,08/23/2024,12:09,MANHATTAN,40.755845,-73.982815,Times Square area,1,0,Pavement Slippery,Sedan
+100816,10/03/2023,20:11,QUEENS,40.632225,-73.829534,Unnamed Street,3,0,Unsafe Speed,Box Truck
+100453,05/12/2024,21:43,QUEENS,40.761728,-73.829773,"Flushing, Queens",1,0,Driver Inattention/Distraction,Box Truck
+100324,11/12/2023,04:29,BROOKLYN,40.699363,-73.995983,Downtown Brooklyn,2,0,Driver Inattention/Distraction,Sedan
+100548,08/27/2023,05:26,BRONX,40.856342,-73.895007,"Fordham Rd, The Bronx",1,0,Unspecified,Box Truck
+100009,02/16/2023,10:23,MANHATTAN,40.753476,-73.982201,Times Square area,1,0,Traffic Control Disregarded,Taxi
+100249,07/05/2023,18:11,MANHATTAN,40.73258,-73.988392,Union Square area,0,0,Unsafe Speed,Bus
+100022,12/28/2024,21:04,MANHATTAN,40.752868,-73.985143,Times Square area,2,0,Alcohol Involvement,Sedan
+100356,05/30/2023,14:06,BROOKLYN,40.693823,-73.994163,Downtown Brooklyn,0,0,Alcohol Involvement,Taxi
+100221,08/12/2023,19:36,MANHATTAN,40.733681,-73.992194,Union Square area,0,0,Backing Unsafely,Bus
+100737,05/20/2023,17:10,QUEENS,40.691897,-73.942126,Unnamed Street,2,0,Unspecified,Bus
+100798,06/19/2023,14:07,BRONX,40.821727,-73.759965,Unnamed Street,0,0,Backing Unsafely,Pick-up Truck
+100913,11/12/2024,10:59,MANHATTAN,40.578838,-73.980171,Unnamed Street,0,0,Pavement Slippery,SUV
+100583,10/16/2023,16:43,BRONX,40.861231,-73.900602,"Fordham Rd, The Bronx",0,0,Driver Inattention/Distraction,Bike
+100340,06/18/2024,16:40,BROOKLYN,40.691019,-73.993197,Downtown Brooklyn,1,0,Failure to Yield Right-of-Way,Pick-up Truck
+100431,07/02/2024,07:16,BROOKLYN,40.69145,-73.986529,Downtown Brooklyn,0,0,Unsafe Speed,Bike
+100796,10/25/2023,08:57,BRONX,40.572222,-73.752867,Unnamed Street,0,0,Alcohol Involvement,Taxi
+100536,11/11/2024,16:38,QUEENS,40.771436,-73.831391,"Flushing, Queens",0,0,Pavement Slippery,Taxi
+100203,03/22/2023,15:20,MANHATTAN,40.735862,-73.989652,Union Square area,1,0,Pavement Slippery,Pick-up Truck
+100585,09/04/2024,15:19,BRONX,40.863258,-73.901262,"Fordham Rd, The Bronx",2,0,Turning Improperly,Bus
+100445,05/25/2024,16:10,QUEENS,40.765972,-73.831001,"Flushing, Queens",0,0,Pavement Slippery,Bike
+100237,05/31/2024,14:05,MANHATTAN,40.735161,-73.990719,Union Square area,0,0,Pavement Slippery,Bike
+100093,11/02/2024,10:17,MANHATTAN,40.760557,-73.992462,Times Square area,0,0,Following Too Closely,Pick-up Truck
+100516,04/15/2023,11:13,QUEENS,40.766357,-73.831407,"Flushing, Queens",0,0,Alcohol Involvement,Bus
+100479,09/12/2024,04:40,QUEENS,40.766251,-73.834764,"Flushing, Queens",3,0,Alcohol Involvement,SUV
+100743,07/16/2023,08:32,STATEN ISLAND,40.707276,-73.881709,Unnamed Street,2,0,Pavement Slippery,Bike
+100863,08/02/2023,16:48,QUEENS,40.790486,-73.897833,Unnamed Street,0,0,Alcohol Involvement,SUV
+100284,02/12/2023,10:43,MANHATTAN,40.733931,-73.992652,Union Square area,0,0,Backing Unsafely,Taxi
+100184,02/20/2023,14:01,MANHATTAN,40.734277,-73.99416,Union Square area,1,0,Unsafe Speed,Pick-up Truck
+100744,05/31/2024,12:00,BROOKLYN,40.575311,-73.875998,Unnamed Street,0,0,Alcohol Involvement,Sedan
+100434,07/22/2023,09:57,BROOKLYN,40.693794,-73.9887,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Sedan
+100854,02/14/2024,00:28,QUEENS,40.720843,-74.01273,Unnamed Street,1,0,Alcohol Involvement,Taxi
+100153,12/28/2024,22:02,MANHATTAN,40.7552,-73.98324,Times Square area,0,0,Traffic Control Disregarded,Box Truck
+100075,12/23/2023,19:29,MANHATTAN,40.756149,-73.989277,Times Square area,0,0,Turning Improperly,Taxi
+100450,02/25/2024,17:12,QUEENS,40.764495,-73.832597,"Flushing, Queens",0,0,Following Too Closely,Bus
+100678,07/04/2023,03:17,STATEN ISLAND,40.812423,-73.855027,Unnamed Street,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100568,04/14/2023,17:32,BRONX,40.862672,-73.898102,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Taxi
+100277,05/17/2024,11:55,MANHATTAN,40.739864,-73.989151,Union Square area,0,0,Unsafe Speed,Sedan
+100068,03/06/2023,07:40,MANHATTAN,40.755554,-73.987177,Times Square area,0,0,Driver Inattention/Distraction,Pick-up Truck
+100446,11/15/2024,18:57,QUEENS,40.760167,-73.830053,"Flushing, Queens",1,0,Pavement Slippery,Bike
+100582,02/03/2024,08:06,BRONX,40.862758,-73.89991,"Fordham Rd, The Bronx",0,0,Backing Unsafely,Box Truck
+100188,04/22/2023,23:39,MANHATTAN,40.734565,-73.994618,Union Square area,1,0,Unsafe Speed,Bus
+100271,10/19/2024,12:50,MANHATTAN,40.73873,-73.985602,Union Square area,0,0,Alcohol Involvement,SUV
+100685,12/19/2024,01:36,QUEENS,40.568955,-73.905543,Unnamed Street,0,0,Following Too Closely,SUV
+100740,11/12/2023,09:33,BROOKLYN,40.720644,-73.802911,Unnamed Street,0,0,Turning Improperly,Box Truck
+100236,07/03/2023,19:54,MANHATTAN,40.734833,-73.992455,Union Square area,0,0,Failure to Yield Right-of-Way,Bus
+100088,03/13/2024,18:09,MANHATTAN,40.763118,-73.983949,Times Square area,0,0,Turning Improperly,Box Truck
+100787,08/29/2024,22:12,BROOKLYN,40.811993,-74.133342,Unnamed Street,0,0,Failure to Yield Right-of-Way,Pick-up Truck
+100117,12/30/2024,15:21,MANHATTAN,40.75831,-73.987103,Times Square area,2,0,Unsafe Speed,Box Truck
+100125,11/20/2024,13:12,MANHATTAN,40.760953,-73.986142,Times Square area,3,0,Backing Unsafely,Taxi
+100758,10/04/2023,15:53,QUEENS,40.73536,-73.883657,Unnamed Street,0,0,Backing Unsafely,Taxi
+100289,12/19/2023,19:54,MANHATTAN,40.736843,-73.991173,Union Square area,0,0,Driver Inattention/Distraction,Pick-up Truck
+100238,06/07/2023,06:15,MANHATTAN,40.736911,-73.99331,Union Square area,0,0,Traffic Control Disregarded,Bus
+100000,06/18/2024,15:38,MANHATTAN,40.75949,-73.985915,Times Square area,0,0,Unspecified,Bike
+100920,12/24/2023,18:45,MANHATTAN,40.553903,-73.7721,Unnamed Street,2,0,Following Too Closely,Bike
+100855,07/04/2024,01:23,BRONX,40.758764,-74.084169,Unnamed Street,1,0,Failure to Yield Right-of-Way,Taxi
+100808,05/22/2023,09:54,BRONX,40.575623,-73.786223,Unnamed Street,0,0,Pavement Slippery,Box Truck
+100395,06/14/2023,14:31,BROOKLYN,40.69676,-73.988119,Downtown Brooklyn,0,0,Backing Unsafely,Box Truck
+100549,10/14/2023,07:29,BRONX,40.86399,-73.899889,"Fordham Rd, The Bronx",2,0,Failure to Yield Right-of-Way,Pick-up Truck
+100126,06/18/2023,18:45,MANHATTAN,40.761415,-73.986495,Times Square area,0,0,Pavement Slippery,Sedan
+100278,01/19/2023,16:27,MANHATTAN,40.733489,-73.992175,Union Square area,0,0,Driver Inattention/Distraction,Sedan
+100715,02/07/2024,11:34,BRONX,40.646944,-73.932357,Unnamed Street,0,0,Driver Inattention/Distraction,Sedan
+100116,07/02/2023,13:14,MANHATTAN,40.760502,-73.984122,Times Square area,1,0,Pavement Slippery,Box Truck
+100473,02/03/2023,16:10,QUEENS,40.762538,-73.831469,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,Bike
+100228,05/01/2023,17:29,MANHATTAN,40.73679,-73.990978,Union Square area,1,0,Driver Inattention/Distraction,Taxi
+100689,11/29/2023,17:41,MANHATTAN,40.555992,-73.915359,Unnamed Street,1,0,Following Too Closely,Bike
+100677,02/27/2023,04:16,QUEENS,40.696772,-74.062901,Unnamed Street,0,0,Driver Inattention/Distraction,Bike
+100057,01/24/2023,09:52,MANHATTAN,40.75703,-73.99048,Times Square area,1,0,Following Too Closely,Bike
+100533,08/03/2023,09:14,QUEENS,40.764161,-73.829445,"Flushing, Queens",0,0,Turning Improperly,Bike
+100274,02/01/2023,07:48,MANHATTAN,40.742595,-73.992314,Union Square area,0,0,Unspecified,Sedan
+100318,12/20/2023,17:22,MANHATTAN,40.734042,-73.993093,Union Square area,1,0,Unspecified,Sedan
+100693,05/21/2023,22:28,BROOKLYN,40.725871,-73.953053,Unnamed Street,0,0,Turning Improperly,Bus
+100845,01/07/2024,14:05,BROOKLYN,40.796141,-73.916272,Unnamed Street,0,0,Traffic Control Disregarded,SUV
+100369,04/10/2024,18:39,BROOKLYN,40.695798,-73.991011,Downtown Brooklyn,0,0,Unsafe Speed,Box Truck
+100268,12/25/2024,07:45,MANHATTAN,40.740653,-73.991252,Union Square area,0,0,Following Too Closely,Bus
+100046,05/11/2024,17:34,MANHATTAN,40.753398,-73.984411,Times Square area,0,0,Backing Unsafely,Sedan
+100349,12/19/2023,07:47,BROOKLYN,40.687465,-73.992265,Downtown Brooklyn,1,0,Pavement Slippery,Sedan
+100195,10/19/2023,07:52,MANHATTAN,40.735926,-73.99438,Union Square area,0,0,Backing Unsafely,Sedan
+100929,07/31/2023,09:55,BRONX,40.814571,-73.986244,Unnamed Street,0,0,Pavement Slippery,SUV
+100773,10/05/2024,16:21,STATEN ISLAND,40.55048,-74.036712,Unnamed Street,0,0,Backing Unsafely,Bus
+100761,05/15/2024,16:58,BROOKLYN,40.654187,-74.043909,Unnamed Street,0,0,Driver Inattention/Distraction,Bus
+100263,12/12/2023,22:07,MANHATTAN,40.73366,-73.993427,Union Square area,1,0,Alcohol Involvement,SUV
+100443,04/24/2024,20:49,QUEENS,40.766192,-73.827983,"Flushing, Queens",1,0,Unspecified,Box Truck
+100625,03/02/2023,07:44,BRONX,40.861332,-73.899579,"Fordham Rd, The Bronx",0,0,Backing Unsafely,Bus
+100304,09/24/2024,15:17,MANHATTAN,40.736362,-73.993732,Union Square area,2,0,Driver Inattention/Distraction,Pick-up Truck
+100341,08/19/2024,08:47,BROOKLYN,40.696382,-73.993243,Downtown Brooklyn,2,0,Turning Improperly,Pick-up Truck
+100897,02/04/2023,15:17,STATEN ISLAND,40.683306,-73.772402,Unnamed Street,3,0,Unspecified,Taxi
+100149,03/23/2024,09:11,MANHATTAN,40.763105,-73.981351,Times Square area,2,0,Backing Unsafely,Pick-up Truck
+100124,02/02/2023,06:56,MANHATTAN,40.75938,-73.986249,Times Square area,1,0,Pavement Slippery,Bike
+100728,07/07/2023,23:36,QUEENS,40.65803,-74.114071,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100050,08/22/2024,17:04,MANHATTAN,40.7567,-73.984889,Times Square area,0,0,Unspecified,Bike
+100353,05/09/2024,05:29,BROOKLYN,40.692062,-73.992143,Downtown Brooklyn,0,0,Backing Unsafely,Pick-up Truck
+100859,08/23/2023,03:31,BROOKLYN,40.695458,-74.008002,Unnamed Street,0,0,Failure to Yield Right-of-Way,Sedan
+100142,02/01/2024,07:24,MANHATTAN,40.75451,-73.977808,Times Square area,2,0,Failure to Yield Right-of-Way,Bus
+100470,04/23/2023,07:05,QUEENS,40.767225,-73.829657,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,Bike
+100399,07/01/2023,15:37,BROOKLYN,40.693805,-73.989352,Downtown Brooklyn,0,1,Pavement Slippery,Taxi
+100580,12/20/2024,18:53,BRONX,40.86252,-73.896347,"Fordham Rd, The Bronx",1,0,Unspecified,Bike
+100320,09/10/2024,10:18,BROOKLYN,40.695299,-73.989545,Downtown Brooklyn,0,0,Unspecified,Bus
+100019,04/21/2023,14:15,MANHATTAN,40.759537,-73.98387,Times Square area,0,0,Backing Unsafely,Taxi
+100749,06/25/2023,12:30,QUEENS,40.56947,-73.96371,Unnamed Street,0,0,Unspecified,Box Truck
+100732,05/19/2023,06:27,BRONX,40.789536,-73.867109,Unnamed Street,0,0,Pavement Slippery,SUV
+100753,11/20/2023,13:26,BROOKLYN,40.740126,-74.093797,Unnamed Street,0,0,Driver Inattention/Distraction,Taxi
+100407,05/25/2024,18:53,BROOKLYN,40.694369,-73.986307,Downtown Brooklyn,1,0,Unspecified,SUV
+100537,02/09/2023,08:24,QUEENS,40.764065,-73.83451,"Flushing, Queens",1,0,Pavement Slippery,Box Truck
+100575,11/07/2024,07:47,BRONX,40.859884,-73.899885,"Fordham Rd, The Bronx",1,0,Unsafe Speed,Bike
+100038,11/03/2023,08:15,MANHATTAN,40.764366,-73.982403,Times Square area,0,0,Unsafe Speed,Box Truck
+100175,07/19/2023,12:24,MANHATTAN,40.762544,-73.983181,Times Square area,0,0,Pavement Slippery,Box Truck
+100245,05/15/2023,19:59,MANHATTAN,40.735063,-73.992109,Union Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100774,04/23/2024,22:24,MANHATTAN,40.795624,-74.103324,Unnamed Street,1,0,Unspecified,Bus
+100620,12/19/2024,04:07,BRONX,40.86644,-73.898729,"Fordham Rd, The Bronx",0,0,Unsafe Speed,Pick-up Truck
+100697,12/11/2024,17:11,STATEN ISLAND,40.636831,-73.95815,Unnamed Street,0,0,Unspecified,Taxi
+100795,07/30/2024,02:56,BROOKLYN,40.592854,-73.844299,Unnamed Street,1,0,Unsafe Speed,Sedan
+100154,05/08/2023,21:57,MANHATTAN,40.759447,-73.98676,Times Square area,1,0,Backing Unsafely,Bus
+100287,04/07/2023,15:33,MANHATTAN,40.737209,-73.990421,Union Square area,1,0,Traffic Control Disregarded,Bike
+100558,01/26/2024,03:06,BRONX,40.860715,-73.897596,"Fordham Rd, The Bronx",0,0,Unspecified,Pick-up Truck
+100017,09/09/2023,16:01,MANHATTAN,40.756675,-73.985752,Times Square area,0,0,Traffic Control Disregarded,Box Truck
+100127,09/13/2023,05:46,MANHATTAN,40.759666,-73.987369,Times Square area,0,0,Backing Unsafely,SUV
+100322,05/18/2024,20:19,BROOKLYN,40.693297,-73.991449,Downtown Brooklyn,1,0,Traffic Control Disregarded,Sedan
+100255,12/03/2023,19:07,MANHATTAN,40.735568,-73.993536,Union Square area,0,0,Backing Unsafely,Sedan
+100644,10/30/2024,00:56,STATEN ISLAND,40.748695,-73.906127,Unnamed Street,1,0,Following Too Closely,Taxi
+100895,06/28/2024,03:26,QUEENS,40.71269,-74.09076,Unnamed Street,2,0,Backing Unsafely,Sedan
+100190,10/06/2023,10:56,MANHATTAN,40.734195,-73.994036,Union Square area,1,0,Backing Unsafely,Pick-up Truck
+100115,03/05/2023,21:18,MANHATTAN,40.758653,-73.979662,Times Square area,1,0,Turning Improperly,Bike
+100652,09/01/2024,15:30,STATEN ISLAND,40.832895,-73.90585,Unnamed Street,0,0,Pavement Slippery,Taxi
+100180,06/21/2023,19:32,MANHATTAN,40.733045,-73.991726,Union Square area,0,0,Unsafe Speed,Box Truck
+100301,01/15/2024,07:22,MANHATTAN,40.736491,-73.987676,Union Square area,1,0,Failure to Yield Right-of-Way,SUV
+100841,02/22/2024,12:39,BROOKLYN,40.569749,-73.872971,Unnamed Street,0,0,Pavement Slippery,Pick-up Truck
+100660,10/27/2024,20:55,BROOKLYN,40.607748,-74.109248,Unnamed Street,0,0,Alcohol Involvement,Bike
+100680,03/11/2024,05:44,BRONX,40.745684,-73.987921,Unnamed Street,0,0,Pavement Slippery,Sedan
+100634,10/15/2024,19:24,BRONX,40.624289,-74.010779,Unnamed Street,1,0,Traffic Control Disregarded,Box Truck
+100921,04/21/2024,19:40,MANHATTAN,40.615796,-73.978445,Unnamed Street,0,0,Turning Improperly,Pick-up Truck
+100517,12/24/2023,12:19,QUEENS,40.762059,-73.826489,"Flushing, Queens",1,0,Alcohol Involvement,SUV
+100914,10/29/2024,18:27,BRONX,40.576272,-73.89646,Unnamed Street,0,0,Unsafe Speed,SUV
+100045,12/24/2024,12:17,MANHATTAN,40.760242,-73.983669,Times Square area,0,0,Turning Improperly,Pick-up Truck
+100842,12/16/2023,17:42,BROOKLYN,40.779696,-74.12208,Unnamed Street,1,0,Alcohol Involvement,Bike
+100157,12/26/2023,08:59,MANHATTAN,40.758971,-73.986374,Times Square area,0,0,Turning Improperly,Sedan
+100688,09/13/2024,18:04,QUEENS,40.598753,-73.766102,Unnamed Street,0,0,Turning Improperly,Taxi
+100171,01/01/2024,14:07,MANHATTAN,40.761808,-73.983407,Times Square area,0,0,Unsafe Speed,Bike
+100016,07/05/2023,08:38,MANHATTAN,40.756012,-73.985939,Times Square area,0,0,Driver Inattention/Distraction,Sedan
+100511,01/18/2024,08:38,QUEENS,40.769601,-73.830137,"Flushing, Queens",0,0,Following Too Closely,Taxi
+100048,03/08/2023,15:51,MANHATTAN,40.75544,-73.985543,Times Square area,1,0,Turning Improperly,Sedan
+100901,04/19/2024,11:08,QUEENS,40.757187,-73.944626,Unnamed Street,0,0,Backing Unsafely,Bike
+100789,10/31/2023,09:29,BROOKLYN,40.789685,-73.828785,Unnamed Street,0,0,Following Too Closely,Sedan
+100515,02/26/2023,07:16,QUEENS,40.763936,-73.829337,"Flushing, Queens",1,0,Alcohol Involvement,Bus
+100635,09/16/2023,11:41,BRONX,40.564788,-73.995485,Unnamed Street,0,0,Turning Improperly,SUV
+100480,01/21/2023,16:56,QUEENS,40.7624,-73.832512,"Flushing, Queens",0,0,Failure to Yield Right-of-Way,Sedan
+100283,01/24/2024,07:52,MANHATTAN,40.735854,-73.990107,Union Square area,1,0,Pavement Slippery,SUV
+100707,07/14/2023,14:53,STATEN ISLAND,40.77876,-73.916028,Unnamed Street,1,0,Unspecified,Pick-up Truck
+100225,05/22/2024,17:57,MANHATTAN,40.733419,-73.990135,Union Square area,1,0,Following Too Closely,Bike
+100026,02/01/2024,14:21,MANHATTAN,40.75512,-73.982185,Times Square area,0,0,Traffic Control Disregarded,Pick-up Truck
+100826,06/25/2023,21:02,BROOKLYN,40.55932,-73.771239,Unnamed Street,0,0,Alcohol Involvement,SUV
+100437,04/20/2023,21:24,BROOKLYN,40.693772,-73.993743,Downtown Brooklyn,2,0,Unspecified,Pick-up Truck
+100882,10/07/2023,16:11,MANHATTAN,40.660489,-74.000622,Unnamed Street,1,0,Driver Inattention/Distraction,Bike
+100364,04/10/2024,08:19,BROOKLYN,40.698049,-73.986156,Downtown Brooklyn,0,0,Unsafe Speed,Box Truck
+100229,07/09/2023,12:50,MANHATTAN,40.736708,-73.991469,Union Square area,0,0,Backing Unsafely,Sedan
+100037,04/25/2023,08:53,MANHATTAN,40.754399,-73.986504,Times Square area,1,0,Unsafe Speed,Sedan
+100896,01/01/2023,08:26,BROOKLYN,40.751534,-73.992264,Unnamed Street,0,0,Driver Inattention/Distraction,Sedan
+100374,01/05/2024,21:32,BROOKLYN,40.689363,-73.99439,Downtown Brooklyn,0,0,Traffic Control Disregarded,Taxi
+100469,06/15/2024,13:46,QUEENS,40.76649,-73.830241,"Flushing, Queens",0,0,Pavement Slippery,Bike
+100898,08/11/2023,18:17,BROOKLYN,40.619394,-73.85606,Unnamed Street,1,0,Alcohol Involvement,Box Truck
+100788,09/23/2024,10:28,BROOKLYN,40.746631,-74.056725,Unnamed Street,1,0,Following Too Closely,Bus
+100673,09/05/2024,03:35,BROOKLYN,40.68571,-73.856543,Unnamed Street,0,0,Failure to Yield Right-of-Way,Sedan
+100194,04/07/2023,19:35,MANHATTAN,40.738615,-73.989913,Union Square area,1,0,Traffic Control Disregarded,Pick-up Truck
+100843,04/03/2023,02:34,BRONX,40.737878,-73.882379,Unnamed Street,0,0,Failure to Yield Right-of-Way,Sedan
+100801,10/27/2023,09:53,STATEN ISLAND,40.808564,-73.924287,Unnamed Street,0,0,Driver Inattention/Distraction,Bus
+100503,03/27/2023,09:35,QUEENS,40.763092,-73.832584,"Flushing, Queens",0,0,Alcohol Involvement,SUV
+100900,08/22/2023,16:36,STATEN ISLAND,40.623584,-73.970637,Unnamed Street,3,0,Alcohol Involvement,Taxi
+100907,11/13/2024,00:28,QUEENS,40.845898,-73.944958,Unnamed Street,0,0,Following Too Closely,Box Truck
+100579,10/31/2024,15:43,BRONX,40.859696,-73.896313,"Fordham Rd, The Bronx",1,0,Following Too Closely,Taxi
+100899,09/03/2023,06:13,MANHATTAN,40.606371,-73.900082,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100162,05/12/2023,06:32,MANHATTAN,40.754288,-73.983612,Times Square area,0,0,Pavement Slippery,Bus
+100650,12/23/2023,01:29,STATEN ISLAND,40.580965,-73.915986,Unnamed Street,1,0,Turning Improperly,Bus
+100152,06/27/2024,19:52,MANHATTAN,40.75694,-73.99158,Times Square area,1,0,Failure to Yield Right-of-Way,Pick-up Truck
+100630,10/08/2023,14:31,BRONX,40.781646,-74.081815,Unnamed Street,0,0,Following Too Closely,Pick-up Truck
+100716,06/17/2024,08:27,BRONX,40.699255,-74.03962,Unnamed Street,1,0,Traffic Control Disregarded,Box Truck
+100746,05/03/2023,23:53,QUEENS,40.622937,-73.8521,Unnamed Street,0,0,Backing Unsafely,Box Truck
+100111,11/27/2024,07:55,MANHATTAN,40.757617,-73.983835,Times Square area,0,0,Backing Unsafely,Taxi
+100226,11/13/2023,06:51,MANHATTAN,40.734821,-73.993315,Union Square area,0,0,Alcohol Involvement,Bus
+100636,04/12/2024,16:03,QUEENS,40.78381,-73.941001,Unnamed Street,0,0,Turning Improperly,Box Truck
+100103,05/28/2024,20:04,MANHATTAN,40.758991,-73.98289,Times Square area,0,0,Failure to Yield Right-of-Way,Taxi
+100421,02/21/2024,08:29,BROOKLYN,40.690123,-73.989094,Downtown Brooklyn,2,0,Traffic Control Disregarded,SUV
+100419,08/06/2024,07:38,BROOKLYN,40.690396,-73.989308,Downtown Brooklyn,0,0,Unspecified,Bike
+100586,11/02/2023,10:43,BRONX,40.86335,-73.896372,"Fordham Rd, The Bronx",1,0,Backing Unsafely,Pick-up Truck
+100119,04/19/2024,11:43,MANHATTAN,40.764573,-73.98448,Times Square area,0,0,Unsafe Speed,Taxi
+100053,03/01/2024,21:59,MANHATTAN,40.761813,-73.983187,Times Square area,0,0,Traffic Control Disregarded,Bike
+100151,03/01/2023,05:22,MANHATTAN,40.763208,-73.984906,Times Square area,1,0,Following Too Closely,SUV
+100403,10/04/2023,11:27,BROOKLYN,40.695964,-73.989703,Downtown Brooklyn,0,0,Following Too Closely,Bike
+100876,09/22/2024,02:48,STATEN ISLAND,40.641451,-73.874836,Unnamed Street,0,0,Backing Unsafely,SUV
+100207,01/09/2024,16:12,MANHATTAN,40.73705,-73.992794,Union Square area,0,0,Driver Inattention/Distraction,Bike
+100885,03/13/2024,06:23,BRONX,40.676269,-73.765433,Unnamed Street,1,0,Failure to Yield Right-of-Way,Bike
+100705,12/02/2023,05:19,BROOKLYN,40.553984,-73.933194,Unnamed Street,1,0,Traffic Control Disregarded,Sedan
+100008,06/16/2024,18:04,MANHATTAN,40.759746,-73.982837,Times Square area,2,0,Turning Improperly,Sedan
+100894,10/14/2024,23:07,BROOKLYN,40.766185,-73.949878,Unnamed Street,0,0,Following Too Closely,Bus
+100036,06/27/2024,08:25,MANHATTAN,40.754076,-73.991472,Times Square area,3,0,Alcohol Involvement,Bus
+100452,09/08/2024,08:43,QUEENS,40.767016,-73.832434,"Flushing, Queens",0,0,Following Too Closely,Sedan
+100253,06/05/2023,03:52,MANHATTAN,40.73106,-73.990785,Union Square area,0,0,Backing Unsafely,Bus
+100303,02/15/2023,18:40,MANHATTAN,40.738288,-73.993682,Union Square area,0,0,Alcohol Involvement,Sedan
+100819,04/04/2023,18:48,STATEN ISLAND,40.578056,-73.979155,Unnamed Street,0,0,Failure to Yield Right-of-Way,SUV
+100571,05/24/2023,08:41,BRONX,40.858096,-73.898631,"Fordham Rd, The Bronx",1,0,Alcohol Involvement,Box Truck
+100623,03/25/2024,20:55,BRONX,40.860082,-73.895496,"Fordham Rd, The Bronx",2,0,Traffic Control Disregarded,Pick-up Truck
+100657,08/19/2024,20:44,BROOKLYN,40.844313,-73.885276,Unnamed Street,1,0,Unspecified,Bike
+100667,05/02/2023,13:54,BRONX,40.560027,-73.918083,Unnamed Street,0,0,Pavement Slippery,Bike
+100262,05/27/2024,08:06,MANHATTAN,40.738955,-73.986726,Union Square area,0,0,Following Too Closely,Pick-up Truck
+100610,06/23/2024,05:18,BRONX,40.862786,-73.89947,"Fordham Rd, The Bronx",0,0,Traffic Control Disregarded,Bus
+100297,05/31/2024,04:01,MANHATTAN,40.739538,-73.991092,Union Square area,1,0,Failure to Yield Right-of-Way,Box Truck
+100414,08/09/2023,22:25,BROOKLYN,40.688555,-73.9942,Downtown Brooklyn,1,0,Traffic Control Disregarded,Box Truck
+100150,04/27/2024,15:05,MANHATTAN,40.756994,-73.97826,Times Square area,1,0,Following Too Closely,Box Truck
+100730,11/22/2024,17:13,BROOKLYN,40.745077,-74.113832,Unnamed Street,0,0,Traffic Control Disregarded,Bike
+100640,09/24/2024,23:58,STATEN ISLAND,40.702741,-74.094272,Unnamed Street,0,0,Unspecified,Pick-up Truck
+100823,09/27/2024,22:13,BRONX,40.84069,-73.776769,Unnamed Street,2,0,Pavement Slippery,Pick-up Truck
+100550,05/06/2023,07:06,BRONX,40.861567,-73.902723,"Fordham Rd, The Bronx",2,0,Alcohol Involvement,Pick-up Truck
+100757,12/26/2023,19:21,MANHATTAN,40.666174,-73.836238,Unnamed Street,1,0,Unsafe Speed,Bus
+100488,08/15/2024,11:01,QUEENS,40.765769,-73.829027,"Flushing, Queens",1,0,Alcohol Involvement,Box Truck
+100147,08/27/2023,14:32,MANHATTAN,40.757337,-73.985419,Times Square area,2,0,Backing Unsafely,SUV
+100146,06/26/2023,22:31,MANHATTAN,40.755099,-73.985643,Times Square area,0,0,Backing Unsafely,Sedan
+100668,07/08/2024,03:15,QUEENS,40.613514,-74.092304,Unnamed Street,0,0,Traffic Control Disregarded,Box Truck
+100862,04/28/2023,09:02,STATEN ISLAND,40.581839,-73.952887,Unnamed Street,0,0,Failure to Yield Right-of-Way,SUV
+100684,04/15/2023,11:30,BROOKLYN,40.566304,-74.142588,Unnamed Street,0,0,Unsafe Speed,SUV
+100659,06/28/2023,05:45,MANHATTAN,40.75123,-73.821496,Unnamed Street,2,0,Unsafe Speed,Box Truck
+100348,06/21/2023,17:18,BROOKLYN,40.692619,-73.988936,Downtown Brooklyn,1,0,Unspecified,Taxi
+100463,01/13/2023,16:51,QUEENS,40.762879,-73.832474,"Flushing, Queens",0,0,Unsafe Speed,Bike
+100325,12/02/2024,08:34,BROOKLYN,40.691512,-73.988534,Downtown Brooklyn,0,0,Pavement Slippery,Pick-up Truck
+100186,12/06/2023,05:43,MANHATTAN,40.740081,-73.990052,Union Square area,0,0,Alcohol Involvement,Box Truck
+100123,03/22/2023,11:29,MANHATTAN,40.755382,-73.983119,Times Square area,2,0,Unsafe Speed,Sedan
+100790,08/04/2023,23:38,BROOKLYN,40.656659,-73.826457,Unnamed Street,0,0,Driver Inattention/Distraction,Sedan
+100608,10/08/2024,06:11,BRONX,40.864934,-73.898373,"Fordham Rd, The Bronx",0,0,Unspecified,Taxi
+100143,12/07/2024,08:14,MANHATTAN,40.759542,-73.98627,Times Square area,0,0,Driver Inattention/Distraction,Pick-up Truck
+100889,06/15/2024,13:02,MANHATTAN,40.701743,-73.925861,Unnamed Street,1,0,Failure to Yield Right-of-Way,Box Truck
+100197,06/07/2023,16:59,MANHATTAN,40.736608,-73.993083,Union Square area,0,0,Unsafe Speed,Taxi
+100609,11/15/2024,09:32,BRONX,40.857704,-73.893438,"Fordham Rd, The Bronx",0,0,Unsafe Speed,Taxi
+100279,09/24/2023,08:11,MANHATTAN,40.738312,-73.987061,Union Square area,1,0,Driver Inattention/Distraction,Bike
+100293,04/06/2024,16:11,MANHATTAN,40.736098,-73.988401,Union Square area,1,0,Unspecified,Pick-up Truck
+100400,04/05/2023,02:58,BROOKLYN,40.692508,-73.991811,Downtown Brooklyn,1,0,Unsafe Speed,Taxi
+100122,02/28/2024,09:56,MANHATTAN,40.757927,-73.987166,Times Square area,1,0,Turning Improperly,Bus
+100183,07/20/2023,06:39,MANHATTAN,40.737322,-73.987029,Union Square area,1,0,Alcohol Involvement,Sedan
+100202,05/12/2024,08:04,MANHATTAN,40.736867,-73.987681,Union Square area,0,0,Failure to Yield Right-of-Way,Bike
+100438,05/10/2023,09:02,BROOKLYN,40.688859,-73.987739,Downtown Brooklyn,1,0,Following Too Closely,Bus
+100246,12/07/2024,12:54,MANHATTAN,40.735961,-73.987569,Union Square area,0,0,Failure to Yield Right-of-Way,Bus
+100415,04/24/2023,13:09,BROOKLYN,40.695353,-73.985798,Downtown Brooklyn,0,0,Following Too Closely,Bus
+100708,05/03/2024,15:49,BROOKLYN,40.809935,-73.941647,Unnamed Street,0,0,Turning Improperly,Sedan
+100822,01/30/2024,20:48,QUEENS,40.795819,-74.00607,Unnamed Street,1,0,Traffic Control Disregarded,Sedan
+100129,03/08/2024,15:33,MANHATTAN,40.758609,-73.990047,Times Square area,0,0,Alcohol Involvement,Taxi
+100637,03/11/2024,18:33,BROOKLYN,40.753062,-74.124362,Unnamed Street,1,0,Unsafe Speed,SUV
+100402,02/20/2023,16:18,BROOKLYN,40.687843,-73.994725,Downtown Brooklyn,0,0,Alcohol Involvement,Bus
+100830,02/25/2023,11:45,QUEENS,40.760136,-73.989275,Unnamed Street,0,0,Alcohol Involvement,SUV
+100713,02/09/2024,08:32,QUEENS,40.651583,-74.127827,Unnamed Street,2,0,Traffic Control Disregarded,Taxi
+100846,11/17/2023,20:55,BROOKLYN,40.809362,-73.950173,Unnamed Street,0,0,Unspecified,Bike
+100219,06/25/2024,18:26,MANHATTAN,40.732666,-73.988405,Union Square area,0,0,Alcohol Involvement,Bus
+100641,11/12/2023,12:03,MANHATTAN,40.657598,-74.042883,Unnamed Street,1,0,Backing Unsafely,Sedan
+100848,04/09/2023,03:09,BROOKLYN,40.647412,-73.757421,Unnamed Street,0,0,Alcohol Involvement,Sedan
+100695,12/08/2023,12:33,QUEENS,40.640719,-74.129679,Unnamed Street,1,0,Pavement Slippery,Taxi
+100851,12/25/2023,06:18,BROOKLYN,40.824525,-74.032661,Unnamed Street,0,0,Alcohol Involvement,Box Truck
+100624,12/11/2023,10:56,BRONX,40.860064,-73.89616,"Fordham Rd, The Bronx",0,0,Driver Inattention/Distraction,Bike
+100777,05/10/2023,02:46,QUEENS,40.624966,-74.0075,Unnamed Street,0,0,Driver Inattention/Distraction,Sedan
+100703,04/20/2023,23:30,STATEN ISLAND,40.835678,-74.130056,Unnamed Street,0,0,Following Too Closely,Bus
+100386,02/18/2023,19:11,BROOKLYN,40.692672,-73.990126,Downtown Brooklyn,0,0,Backing Unsafely,Sedan
+100902,12/19/2024,13:02,STATEN ISLAND,40.730967,-74.019768,Unnamed Street,0,0,Turning Improperly,Taxi
+100509,02/09/2024,18:05,QUEENS,40.768824,-73.833478,"Flushing, Queens",0,0,Unsafe Speed,Box Truck
+100267,07/27/2023,18:20,MANHATTAN,40.737973,-73.992555,Union Square area,0,0,Alcohol Involvement,Box Truck
+100759,12/30/2024,21:39,BRONX,40.609462,-74.092399,Unnamed Street,0,0,Failure to Yield Right-of-Way,SUV
+100441,07/30/2023,13:57,QUEENS,40.766088,-73.826662,"Flushing, Queens",0,0,Alcohol Involvement,Bike
+100496,11/18/2024,14:52,QUEENS,40.763302,-73.828313,"Flushing, Queens",0,0,Alcohol Involvement,Bike
+100112,12/29/2023,15:33,MANHATTAN,40.756273,-73.985134,Times Square area,1,0,Alcohol Involvement,Sedan
+100691,01/22/2023,10:22,STATEN ISLAND,40.72929,-73.854428,Unnamed Street,0,0,Pavement Slippery,Bike
+100232,12/12/2024,11:30,MANHATTAN,40.738116,-73.992832,Union Square area,0,0,Alcohol Involvement,Bike
+100806,07/31/2023,17:12,BROOKLYN,40.58733,-73.765122,Unnamed Street,0,0,Unsafe Speed,SUV
+100607,12/09/2023,07:26,BRONX,40.860721,-73.898438,"Fordham Rd, The Bronx",1,0,Backing Unsafely,Box Truck
+100671,10/24/2024,06:31,BRONX,40.581043,-73.887375,Unnamed Street,2,0,Driver Inattention/Distraction,Bus
+100373,02/08/2024,09:57,BROOKLYN,40.692488,-73.987961,Downtown Brooklyn,1,0,Turning Improperly,Pick-up Truck
+100911,03/09/2023,12:13,BROOKLYN,40.693856,-74.143659,Unnamed Street,0,0,Unsafe Speed,Box Truck
+100781,02/21/2023,11:41,BRONX,40.841807,-74.035663,Unnamed Street,1,0,Backing Unsafely,Box Truck
+100233,09/10/2023,10:26,MANHATTAN,40.738533,-73.986017,Union Square area,0,0,Failure to Yield Right-of-Way,Taxi
+100783,03/15/2024,05:02,STATEN ISLAND,40.753304,-74.059306,Unnamed Street,0,0,Backing Unsafely,Bus
+100676,10/09/2024,01:50,BROOKLYN,40.617883,-74.097277,Unnamed Street,0,0,Backing Unsafely,Bus
+100317,03/18/2024,09:44,MANHATTAN,40.739055,-73.990651,Union Square area,0,0,Following Too Closely,Bike
+100648,02/26/2024,19:32,BROOKLYN,40.743172,-73.81627,Unnamed Street,0,0,Traffic Control Disregarded,Pick-up Truck
+100410,08/08/2024,23:19,BROOKLYN,40.690113,-73.987312,Downtown Brooklyn,0,0,Turning Improperly,Sedan
+100832,04/16/2024,17:24,MANHATTAN,40.785192,-73.992077,Unnamed Street,1,0,Driver Inattention/Distraction,Sedan
+100709,07/11/2023,14:43,BROOKLYN,40.579771,-74.113712,Unnamed Street,0,0,Failure to Yield Right-of-Way,Box Truck
+100358,03/13/2024,16:46,BROOKLYN,40.69116,-73.991115,Downtown Brooklyn,1,0,Traffic Control Disregarded,Taxi
+100258,03/12/2024,09:58,MANHATTAN,40.731187,-73.991841,Union Square area,1,0,Backing Unsafely,Bus
+100627,05/11/2024,15:41,BRONX,40.862767,-73.897194,"Fordham Rd, The Bronx",3,0,Driver Inattention/Distraction,Taxi
+100632,02/28/2023,17:58,BRONX,40.703859,-73.812081,Unnamed Street,0,0,Unspecified,Pick-up Truck
+100282,03/06/2023,15:51,MANHATTAN,40.735936,-73.99071,Union Square area,0,0,Traffic Control Disregarded,Bus
+100376,04/28/2023,16:12,BROOKLYN,40.69897,-73.993693,Downtown Brooklyn,1,0,Turning Improperly,Bike
+100384,12/06/2023,19:40,BROOKLYN,40.695953,-73.987838,Downtown Brooklyn,0,0,Alcohol Involvement,Box Truck
+100224,03/16/2024,16:17,MANHATTAN,40.740553,-73.986383,Union Square area,1,0,Following Too Closely,Sedan
+100884,02/09/2023,16:27,STATEN ISLAND,40.552402,-74.111963,Unnamed Street,0,0,Driver Inattention/Distraction,SUV
+100754,12/01/2024,15:18,STATEN ISLAND,40.788886,-73.916773,Unnamed Street,0,0,Alcohol Involvement,Bus
+100472,06/17/2023,12:05,QUEENS,40.764462,-73.82997,"Flushing, Queens",2,0,Backing Unsafely,Sedan
+100347,01/05/2024,11:03,BROOKLYN,40.692251,-73.996195,Downtown Brooklyn,0,0,Backing Unsafely,Taxi
+100505,08/27/2024,18:52,QUEENS,40.772214,-73.833013,"Flushing, Queens",0,0,Pavement Slippery,SUV
+100639,07/31/2023,16:51,BROOKLYN,40.71344,-74.099743,Unnamed Street,0,0,Alcohol Involvement,Taxi
+100917,03/01/2023,12:54,MANHATTAN,40.717843,-74.144186,Unnamed Street,2,0,Failure to Yield Right-of-Way,Pick-up Truck
+100927,08/22/2024,18:53,BRONX,40.570172,-73.964124,Unnamed Street,0,0,Alcohol Involvement,Pick-up Truck
+100838,08/15/2023,04:28,MANHATTAN,40.685694,-74.132732,Unnamed Street,0,0,Traffic Control Disregarded,Bus
+100619,08/21/2024,00:31,BRONX,40.860411,-73.899713,"Fordham Rd, The Bronx",0,0,Unsafe Speed,SUV
+100792,05/29/2024,14:06,QUEENS,40.553773,-74.088415,Unnamed Street,0,0,Unsafe Speed,Box Truck
+100645,06/11/2024,20:55,QUEENS,40.628213,-73.942688,Unnamed Street,0,0,Unspecified,Box Truck
+100784,09/19/2024,06:14,BROOKLYN,40.818877,-73.875715,Unnamed Street,1,0,Unspecified,Bus
+100556,11/01/2024,06:33,BRONX,40.863312,-73.900161,"Fordham Rd, The Bronx",0,0,Unspecified,Sedan
+100888,03/20/2024,19:41,QUEENS,40.556771,-74.104857,Unnamed Street,0,0,Following Too Closely,SUV
+100577,09/05/2023,21:19,BRONX,40.864978,-73.899658,"Fordham Rd, The Bronx",1,0,Alcohol Involvement,Bike
+100085,01/25/2024,19:35,MANHATTAN,40.759528,-73.981758,Times Square area,3,0,Unsafe Speed,Taxi
+100242,04/24/2024,18:49,MANHATTAN,40.733466,-73.991113,Union Square area,0,0,Unspecified,Bus
+100698,08/07/2024,02:47,BROOKLYN,40.709993,-73.751603,Unnamed Street,0,0,Alcohol Involvement,Taxi
+100159,02/23/2023,07:09,MANHATTAN,40.753332,-73.986317,Times Square area,0,0,Alcohol Involvement,Sedan
+100524,11/16/2024,11:14,QUEENS,40.767607,-73.826825,"Flushing, Queens",0,0,Turning Improperly,Taxi
+100035,05/22/2023,12:34,MANHATTAN,40.761631,-73.985954,Times Square area,1,0,Failure to Yield Right-of-Way,Bus
+100540,09/05/2023,05:46,BRONX,40.860629,-73.896327,"Fordham Rd, The Bronx",0,0,Failure to Yield Right-of-Way,Bus
+100170,11/24/2023,08:48,MANHATTAN,40.755345,-73.980842,Times Square area,0,0,Following Too Closely,Pick-up Truck
+100654,01/16/2023,03:10,QUEENS,40.672369,-74.010887,Unnamed Street,1,0,Following Too Closely,Box Truck
+100824,09/12/2024,11:10,BRONX,40.723119,-73.892949,Unnamed Street,0,0,Traffic Control Disregarded,Sedan
+100794,04/28/2023,03:12,QUEENS,40.830037,-74.012161,Unnamed Street,2,0,Unspecified,SUV
+100785,08/23/2023,09:04,MANHATTAN,40.675391,-74.049523,Unnamed Street,0,0,Following Too Closely,SUV
+100881,10/23/2023,21:18,MANHATTAN,40.849671,-73.906895,Unnamed Street,3,0,Alcohol Involvement,Taxi
+100733,12/27/2023,04:02,BROOKLYN,40.656479,-73.948728,Unnamed Street,0,0,Backing Unsafely,Taxi
+100095,12/13/2024,13:19,MANHATTAN,40.758235,-73.989954,Times Square area,0,0,Unspecified,Sedan
+100563,09/08/2024,20:02,BRONX,40.864377,-73.901297,"Fordham Rd, The Bronx",1,0,Failure to Yield Right-of-Way,Taxi
+100240,07/06/2024,14:55,MANHATTAN,40.734693,-73.993483,Union Square area,0,0,Backing Unsafely,Bus
+100742,10/07/2023,21:36,BRONX,40.69558,-73.838836,Unnamed Street,0,0,Driver Inattention/Distraction,Sedan
+100574,06/01/2023,14:23,BRONX,40.861645,-73.901921,"Fordham Rd, The Bronx",2,0,Alcohol Involvement,Bus
+100690,08/16/2024,11:07,STATEN ISLAND,40.769666,-74.056792,Unnamed Street,0,0,Driver Inattention/Distraction,SUV
+100460,09/10/2023,16:05,QUEENS,40.769923,-73.833876,"Flushing, Queens",0,0,Traffic Control Disregarded,Box Truck
+100553,06/28/2024,10:24,BRONX,40.861607,-73.896074,"Fordham Rd, The Bronx",0,0,Following Too Closely,Sedan
+100813,01/04/2023,13:37,QUEENS,40.710698,-73.808218,Unnamed Street,0,0,Failure to Yield Right-of-Way,Taxi
+100206,12/28/2023,11:21,MANHATTAN,40.73737,-73.989828,Union Square area,1,0,Turning Improperly,Bike
+100392,10/11/2024,15:21,BROOKLYN,40.6979,-73.987085,Downtown Brooklyn,1,0,Traffic Control Disregarded,Taxi
+100397,06/08/2023,13:21,BROOKLYN,40.690876,-73.988935,Downtown Brooklyn,0,0,Following Too Closely,Box Truck
+100766,04/25/2024,03:35,QUEENS,40.802332,-74.135614,Unnamed Street,0,0,Pavement Slippery,Bike
+100786,08/12/2023,03:11,MANHATTAN,40.666418,-73.831614,Unnamed Street,1,0,Unspecified,Pick-up Truck
+100217,03/22/2024,06:22,MANHATTAN,40.737909,-73.98897,Union Square area,1,0,Alcohol Involvement,Bike
+100004,01/12/2023,08:27,MANHATTAN,40.75192,-73.982142,Times Square area,0,0,Unspecified,Box Truck
+100768,06/14/2023,10:28,STATEN ISLAND,40.844228,-74.087723,Unnamed Street,1,0,Unsafe Speed,Sedan
+100642,01/08/2023,19:01,BROOKLYN,40.568272,-73.869374,Unnamed Street,0,0,Traffic Control Disregarded,Box Truck
+100878,05/22/2023,11:00,STATEN ISLAND,40.635867,-73.965959,Unnamed Street,1,0,Alcohol Involvement,Sedan
+100612,07/06/2024,12:40,BRONX,40.858971,-73.900983,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Bus
+100738,11/08/2024,01:28,STATEN ISLAND,40.741467,-74.009997,Unnamed Street,0,0,Traffic Control Disregarded,Bus
+100546,04/09/2024,12:36,BRONX,40.862617,-73.894765,"Fordham Rd, The Bronx",0,0,Following Too Closely,Bike
+100725,10/10/2024,13:07,STATEN ISLAND,40.554756,-73.858031,Unnamed Street,0,0,Unsafe Speed,SUV
+100683,10/19/2023,02:45,BRONX,40.628198,-74.112989,Unnamed Street,0,0,Following Too Closely,Box Truck
+100098,03/17/2023,10:54,MANHATTAN,40.762775,-73.985554,Times Square area,2,0,Pavement Slippery,Taxi
+100727,03/09/2024,16:31,BRONX,40.609307,-74.022473,Unnamed Street,0,0,Driver Inattention/Distraction,Pick-up Truck
+100573,01/19/2023,17:32,BRONX,40.864888,-73.901021,"Fordham Rd, The Bronx",2,0,Unsafe Speed,Pick-up Truck
+100406,01/31/2023,15:16,BROOKLYN,40.688792,-73.991467,Downtown Brooklyn,1,0,Backing Unsafely,SUV
+100502,04/29/2023,17:42,QUEENS,40.764561,-73.834694,"Flushing, Queens",1,0,Turning Improperly,Pick-up Truck
+100047,10/12/2023,01:40,MANHATTAN,40.760046,-73.986431,Times Square area,1,0,Backing Unsafely,Taxi
+100032,03/22/2024,06:06,MANHATTAN,40.753346,-73.987031,Times Square area,0,0,Driver Inattention/Distraction,Pick-up Truck
+100779,07/11/2024,12:36,MANHATTAN,40.642506,-73.802184,Unnamed Street,0,0,Unspecified,Sedan
+100200,04/23/2024,19:49,MANHATTAN,40.734418,-73.992368,Union Square area,0,0,Following Too Closely,Box Truck
+100134,06/26/2024,07:35,MANHATTAN,40.756889,-73.988001,Times Square area,1,0,Turning Improperly,SUV
+100027,04/05/2024,18:29,MANHATTAN,40.760636,-73.986219,Times Square area,1,0,Driver Inattention/Distraction,Bike
+100834,12/02/2023,14:25,STATEN ISLAND,40.716774,-73.988409,Unnamed Street,0,0,Unspecified,Box Truck
+100230,05/30/2024,16:38,MANHATTAN,40.737635,-73.991357,Union Square area,2,0,Unspecified,Sedan
+100489,03/01/2023,18:53,QUEENS,40.762003,-73.831987,"Flushing, Queens",0,0,Pavement Slippery,Taxi
+100772,08/20/2023,04:19,MANHATTAN,40.773081,-73.849891,Unnamed Street,0,0,Driver Inattention/Distraction,Box Truck
+100378,03/18/2023,08:08,BROOKLYN,40.690671,-73.994076,Downtown Brooklyn,0,0,Turning Improperly,Box Truck
+100288,02/12/2023,16:40,MANHATTAN,40.736717,-73.987027,Union Square area,2,0,Driver Inattention/Distraction,Taxi
+100418,11/17/2024,01:20,BROOKLYN,40.69735,-73.989226,Downtown Brooklyn,0,0,Traffic Control Disregarded,Taxi
+100674,06/09/2023,11:38,BROOKLYN,40.65977,-74.058243,Unnamed Street,0,0,Unsafe Speed,Sedan
+100391,10/10/2023,16:27,BROOKLYN,40.694806,-73.993054,Downtown Brooklyn,0,0,Turning Improperly,Box Truck
+100592,05/15/2023,10:10,BRONX,40.862097,-73.899578,"Fordham Rd, The Bronx",1,0,Alcohol Involvement,SUV
+100498,03/02/2024,22:25,QUEENS,40.763842,-73.832823,"Flushing, Queens",1,0,Driver Inattention/Distraction,Bus
+100138,01/18/2023,02:05,MANHATTAN,40.759101,-73.987077,Times Square area,0,0,Pavement Slippery,Box Truck
+100062,10/03/2024,17:33,MANHATTAN,40.755384,-73.987513,Times Square area,0,0,Pavement Slippery,SUV
+100471,09/04/2023,18:42,QUEENS,40.766341,-73.828168,"Flushing, Queens",1,0,Traffic Control Disregarded,Bus
+100647,05/31/2024,13:05,BRONX,40.828324,-73.802919,Unnamed Street,0,0,Alcohol Involvement,Box Truck
+100128,01/12/2024,13:16,MANHATTAN,40.752903,-73.984968,Times Square area,0,0,Traffic Control Disregarded,Bike
+100906,01/23/2023,20:01,STATEN ISLAND,40.644979,-73.881511,Unnamed Street,1,0,Unspecified,Taxi
+100520,12/02/2024,17:23,QUEENS,40.768982,-73.835149,"Flushing, Queens",0,0,Turning Improperly,Pick-up Truck
+100064,05/28/2024,08:37,MANHATTAN,40.759936,-73.981394,Times Square area,1,0,Failure to Yield Right-of-Way,SUV
+100812,05/20/2023,07:57,MANHATTAN,40.680403,-74.072864,Unnamed Street,0,0,Pavement Slippery,Box Truck
+100014,07/18/2023,16:56,MANHATTAN,40.760172,-73.986267,Times Square area,1,0,Turning Improperly,Pick-up Truck
+100156,12/07/2023,18:32,MANHATTAN,40.754168,-73.990146,Times Square area,0,0,Turning Improperly,SUV
+100040,01/12/2023,20:31,MANHATTAN,40.757027,-73.983926,Times Square area,2,0,Backing Unsafely,Box Truck
+100492,06/17/2024,16:12,QUEENS,40.7654,-73.82855,"Flushing, Queens",1,0,Backing Unsafely,Box Truck
+100379,09/03/2023,17:23,BROOKLYN,40.690354,-73.992997,Downtown Brooklyn,1,0,Driver Inattention/Distraction,Pick-up Truck
+100187,11/25/2023,17:16,MANHATTAN,40.733613,-73.990897,Union Square area,0,0,Following Too Closely,Pick-up Truck
+100763,04/03/2023,18:02,QUEENS,40.585119,-73.938729,Unnamed Street,0,0,Traffic Control Disregarded,SUV
+100216,08/19/2024,08:50,MANHATTAN,40.736899,-73.992728,Union Square area,0,0,Traffic Control Disregarded,Taxi
+100791,04/27/2024,07:44,BROOKLYN,40.828977,-73.931967,Unnamed Street,0,0,Pavement Slippery,Taxi
+100052,07/01/2023,10:02,MANHATTAN,40.762435,-73.988138,Times Square area,0,0,Pavement Slippery,Bus
+100337,09/02/2024,10:33,BROOKLYN,40.696597,-73.991406,Downtown Brooklyn,1,0,Backing Unsafely,Taxi
+100748,07/20/2024,15:25,STATEN ISLAND,40.553034,-74.090477,Unnamed Street,0,0,Turning Improperly,Box Truck
+100719,08/23/2023,19:17,MANHATTAN,40.724983,-73.856096,Unnamed Street,0,0,Following Too Closely,Bus
+100724,05/11/2024,20:09,STATEN ISLAND,40.767436,-73.947859,Unnamed Street,1,0,Backing Unsafely,Bus
+100295,10/07/2024,17:39,MANHATTAN,40.737067,-73.989885,Union Square area,0,0,Backing Unsafely,Pick-up Truck
+100701,10/20/2023,09:58,BRONX,40.780919,-73.825626,Unnamed Street,0,0,Driver Inattention/Distraction,Box Truck
+100251,12/15/2024,16:19,MANHATTAN,40.735642,-73.988037,Union Square area,1,0,Following Too Closely,Bus
+100726,07/23/2023,16:42,QUEENS,40.640787,-73.966007,Unnamed Street,0,0,Backing Unsafely,Bus
+100461,04/26/2024,17:48,QUEENS,40.76562,-73.832809,"Flushing, Queens",0,0,Pavement Slippery,Taxi
+100455,01/14/2024,17:02,QUEENS,40.764085,-73.833414,"Flushing, Queens",0,0,Alcohol Involvement,Box Truck
+100926,06/01/2023,21:16,QUEENS,40.708468,-73.885249,Unnamed Street,0,0,Pavement Slippery,Bike
+100815,12/18/2023,18:07,QUEENS,40.790462,-73.938244,Unnamed Street,0,0,Traffic Control Disregarded,Sedan
+100269,07/08/2023,16:32,MANHATTAN,40.73676,-73.989178,Union Square area,1,0,Pavement Slippery,Bike
+100201,05/10/2023,11:04,MANHATTAN,40.73104,-73.984351,Union Square area,0,0,Unsafe Speed,Pick-up Truck
+100161,09/08/2024,18:27,MANHATTAN,40.757035,-73.97927,Times Square area,2,0,Backing Unsafely,SUV
+100555,11/09/2024,12:23,BRONX,40.861448,-73.898565,"Fordham Rd, The Bronx",0,0,Driver Inattention/Distraction,Bus
+100729,03/10/2023,10:27,STATEN ISLAND,40.592373,-73.781749,Unnamed Street,0,0,Failure to Yield Right-of-Way,Taxi
+100401,08/14/2023,07:42,BROOKLYN,40.693519,-73.988848,Downtown Brooklyn,0,0,Unsafe Speed,Bike
+100702,06/07/2023,06:11,STATEN ISLAND,40.756754,-74.013412,Unnamed Street,0,0,Alcohol Involvement,Bike
+100476,07/05/2023,13:10,QUEENS,40.767067,-73.824512,"Flushing, Queens",3,0,Unsafe Speed,SUV
+100821,12/11/2024,15:01,BRONX,40.594104,-73.865642,Unnamed Street,0,0,Following Too Closely,Bike
+100771,09/03/2023,06:08,QUEENS,40.841166,-73.926419,Unnamed Street,0,0,Traffic Control Disregarded,SUV
+100105,12/20/2024,13:31,MANHATTAN,40.758499,-73.988428,Times Square area,0,0,Alcohol Involvement,SUV
+100565,07/30/2023,11:03,BRONX,40.859082,-73.900373,"Fordham Rd, The Bronx",1,0,Following Too Closely,SUV
+100389,12/20/2023,00:59,BROOKLYN,40.694755,-73.993713,Downtown Brooklyn,0,0,Alcohol Involvement,Bus
+100001,01/16/2023,22:43,MANHATTAN,40.762738,-73.983198,Times Square area,2,0,Unsafe Speed,Sedan
+100868,07/21/2024,04:45,STATEN ISLAND,40.73587,-73.879787,Unnamed Street,0,0,Pavement Slippery,Sedan
+100561,02/19/2023,08:56,BRONX,40.858654,-73.899979,"Fordham Rd, The Bronx",0,0,Traffic Control Disregarded,Taxi
+100080,08/02/2024,06:04,MANHATTAN,40.76517,-73.987313,Times Square area,1,0,Unsafe Speed,Taxi
+100205,11/19/2024,18:47,MANHATTAN,40.736629,-73.992927,Union Square area,0,0,Pavement Slippery,Bus
+100034,07/02/2023,03:14,MANHATTAN,40.75845,-73.985077,Times Square area,0,0,Driver Inattention/Distraction,Bike
+100775,08/25/2024,23:19,QUEENS,40.741046,-73.760092,Unnamed Street,0,0,Alcohol Involvement,Taxi
+100508,10/23/2024,18:30,QUEENS,40.770255,-73.832583,"Flushing, Queens",1,0,Failure to Yield Right-of-Way,Bus
+100427,05/28/2024,20:49,BROOKLYN,40.69304,-73.985465,Downtown Brooklyn,0,0,Unsafe Speed,Pick-up Truck
+100454,09/17/2023,12:57,QUEENS,40.764004,-73.832666,"Flushing, Queens",0,0,Backing Unsafely,Taxi
+100366,03/01/2023,21:09,BROOKLYN,40.697645,-73.987309,Downtown Brooklyn,2,0,Backing Unsafely,Taxi
+100091,12/19/2024,18:53,MANHATTAN,40.755031,-73.985877,Times Square area,1,0,Traffic Control Disregarded,Box Truck
+100339,09/22/2023,17:39,BROOKLYN,40.690851,-73.989898,Downtown Brooklyn,0,0,Backing Unsafely,Taxi
+100564,06/22/2024,07:58,BRONX,40.860723,-73.901572,"Fordham Rd, The Bronx",2,0,Driver Inattention/Distraction,Bus
+100345,11/03/2024,17:38,BROOKLYN,40.691838,-73.984914,Downtown Brooklyn,2,0,Failure to Yield Right-of-Way,Taxi
+100776,03/05/2023,17:21,MANHATTAN,40.832572,-73.854175,Unnamed Street,0,0,Unsafe Speed,SUV
+100241,02/12/2024,15:55,MANHATTAN,40.739856,-73.99015,Union Square area,0,0,Driver Inattention/Distraction,SUV
+100013,08/09/2024,08:29,MANHATTAN,40.760746,-73.984514,Times Square area,2,0,Turning Improperly,Bus
+100315,03/29/2023,09:31,MANHATTAN,40.737582,-73.98962,Union Square area,0,0,Turning Improperly,SUV
+100600,08/31/2023,10:29,BRONX,40.866054,-73.892168,"Fordham Rd, The Bronx",0,0,Backing Unsafely,Sedan
+100387,01/10/2024,22:19,BROOKLYN,40.69269,-73.989232,Downtown Brooklyn,3,0,Following Too Closely,Taxi
+100273,01/22/2024,18:29,MANHATTAN,40.739229,-73.989195,Union Square area,0,0,Following Too Closely,Taxi
+100166,06/07/2023,16:52,MANHATTAN,40.761317,-73.981939,Times Square area,1,0,Failure to Yield Right-of-Way,SUV
+100840,11/01/2024,17:42,BRONX,40.674774,-73.861867,Unnamed Street,0,0,Backing Unsafely,Box Truck
+100922,11/28/2023,09:12,BRONX,40.630808,-73.829734,Unnamed Street,0,0,Failure to Yield Right-of-Way,Bus
+100646,08/15/2023,08:31,MANHATTAN,40.619858,-73.953199,Unnamed Street,1,0,Turning Improperly,Box Truck
+100818,01/29/2023,08:03,BROOKLYN,40.719767,-73.903779,Unnamed Street,0,0,Traffic Control Disregarded,SUV
+100484,01/01/2023,09:58,QUEENS,40.765053,-73.831042,"Flushing, Queens",2,0,Following Too Closely,Pick-up Truck
+100910,07/02/2024,22:13,QUEENS,40.633178,-73.751327,Unnamed Street,1,0,Traffic Control Disregarded,Bus
+100504,09/29/2023,16:38,QUEENS,40.768586,-73.831297,"Flushing, Queens",2,0,Turning Improperly,Sedan
+100831,11/28/2023,10:11,STATEN ISLAND,40.62782,-73.895547,Unnamed Street,2,0,Backing Unsafely,Sedan
+100243,08/01/2024,15:20,MANHATTAN,40.731323,-73.990598,Union Square area,0,0,Unspecified,SUV
+100566,01/03/2024,18:31,BRONX,40.859463,-73.900394,"Fordham Rd, The Bronx",0,0,Unsafe Speed,SUV
+100875,05/09/2023,16:38,BRONX,40.750883,-73.761733,Unnamed Street,0,0,Driver Inattention/Distraction,Bike
+100562,08/30/2023,06:30,BRONX,40.860952,-73.894952,"Fordham Rd, The Bronx",0,0,Pavement Slippery,Sedan
+100686,09/09/2023,16:41,QUEENS,40.740479,-73.806427,Unnamed Street,1,0,Turning Improperly,SUV
+100189,07/05/2024,07:15,MANHATTAN,40.734027,-73.990537,Union Square area,0,0,Backing Unsafely,Sedan
+100782,04/11/2024,23:08,MANHATTAN,40.74973,-73.940131,Unnamed Street,2,0,Pavement Slippery,Bus
+100699,05/27/2024,18:01,QUEENS,40.659834,-74.108545,Unnamed Street,0,1,Unspecified,SUV
+100475,02/16/2024,19:45,QUEENS,40.759892,-73.834153,"Flushing, Queens",0,0,Unspecified,Sedan
+100681,10/30/2023,00:27,BROOKLYN,40.791649,-74.119282,Unnamed Street,0,0,Unsafe Speed,Pick-up Truck
+100510,05/01/2023,12:50,QUEENS,40.767087,-73.832963,"Flushing, Queens",1,0,Traffic Control Disregarded,Bike
+100058,02/29/2024,20:09,MANHATTAN,40.757632,-73.983553,Times Square area,2,0,Unsafe Speed,Box Truck
+100474,02/26/2024,19:18,QUEENS,40.767216,-73.828454,"Flushing, Queens",3,0,Backing Unsafely,SUV
+100560,03/30/2023,01:19,BRONX,40.861934,-73.898058,"Fordham Rd, The Bronx",1,0,Driver Inattention/Distraction,Pick-up Truck
+100856,12/17/2023,14:25,MANHATTAN,40.797637,-74.127599,Unnamed Street,0,0,Driver Inattention/Distraction,Taxi
+100747,08/25/2024,06:21,BROOKLYN,40.740628,-73.827694,Unnamed Street,0,0,Turning Improperly,Bus
+100252,04/23/2024,23:54,MANHATTAN,40.733592,-73.98984,Union Square area,0,0,Backing Unsafely,SUV
+100021,06/02/2023,14:41,MANHATTAN,40.761508,-73.98288,Times Square area,0,0,Pavement Slippery,Sedan
+100313,10/23/2023,14:53,MANHATTAN,40.735355,-73.997697,Union Square area,0,0,Alcohol Involvement,Bus
+100459,10/07/2024,15:41,QUEENS,40.764968,-73.831191,"Flushing, Queens",0,0,Backing Unsafely,Box Truck
+100160,11/23/2024,08:53,MANHATTAN,40.764569,-73.98928,Times Square area,0,0,Unsafe Speed,Box Truck
+100276,08/23/2024,19:14,MANHATTAN,40.739381,-73.991725,Union Square area,1,0,Pavement Slippery,Taxi
+100191,01/12/2024,20:42,MANHATTAN,40.741289,-73.993929,Union Square area,1,0,Backing Unsafely,SUV
+100385,09/16/2024,19:02,BROOKLYN,40.688842,-73.990909,Downtown Brooklyn,0,0,Alcohol Involvement,SUV
+100805,01/15/2024,10:09,BROOKLYN,40.762936,-73.95711,Unnamed Street,2,0,Failure to Yield Right-of-Way,SUV
+100413,08/05/2024,10:07,BROOKLYN,40.687693,-73.991688,Downtown Brooklyn,0,0,Pavement Slippery,Box Truck
+100491,06/23/2024,16:43,QUEENS,40.762441,-73.827544,"Flushing, Queens",1,0,Alcohol Involvement,Box Truck
+100343,04/03/2024,13:16,BROOKLYN,40.687555,-73.989901,Downtown Brooklyn,1,0,Alcohol Involvement,Taxi
+100769,02/28/2023,07:12,QUEENS,40.768931,-73.855815,Unnamed Street,1,0,Unspecified,Pick-up Truck
+100308,09/27/2023,11:59,MANHATTAN,40.732296,-73.991624,Union Square area,2,0,Unsafe Speed,Bike
+100661,07/06/2024,21:15,STATEN ISLAND,40.713943,-74.113459,Unnamed Street,1,0,Traffic Control Disregarded,Box Truck
+100130,02/07/2024,06:23,MANHATTAN,40.75963,-73.982249,Times Square area,0,0,Unsafe Speed,SUV
+100663,01/20/2023,18:48,STATEN ISLAND,40.728904,-74.040315,Unnamed Street,0,0,Unsafe Speed,SUV
+100871,03/17/2024,16:38,STATEN ISLAND,40.739981,-74.110202,Unnamed Street,0,0,Following Too Closely,Box Truck
+100099,01/19/2023,07:49,MANHATTAN,40.754668,-73.980243,Times Square area,2,0,Alcohol Involvement,Box Truck
+100372,10/05/2024,18:19,BROOKLYN,40.694428,-73.993417,Downtown Brooklyn,0,0,Driver Inattention/Distraction,Bus
+100087,04/20/2023,08:11,MANHATTAN,40.761861,-73.986834,Times Square area,1,0,Following Too Closely,Taxi
+100458,07/14/2024,14:41,QUEENS,40.76421,-73.832597,"Flushing, Queens",1,0,Alcohol Involvement,Bike
+100330,06/16/2024,06:36,BROOKLYN,40.695447,-73.991656,Downtown Brooklyn,0,0,Pavement Slippery,Bus
+100214,04/16/2024,09:31,MANHATTAN,40.736426,-73.991511,Union Square area,0,0,Alcohol Involvement,Box Truck
+100466,01/05/2023,05:26,QUEENS,40.768275,-73.837699,"Flushing, Queens",1,0,Turning Improperly,Box Truck
+100121,06/20/2023,02:41,MANHATTAN,40.758801,-73.982831,Times Square area,3,0,Failure to Yield Right-of-Way,Taxi
+100614,11/03/2023,17:08,BRONX,40.866053,-73.8947,"Fordham Rd, The Bronx",1,0,Driver Inattention/Distraction,Box Truck
+100020,09/12/2023,06:40,MANHATTAN,40.760663,-73.983684,Times Square area,1,0,Failure to Yield Right-of-Way,Sedan
+100700,06/25/2024,15:00,BROOKLYN,40.844078,-73.889955,Unnamed Street,0,0,Alcohol Involvement,Pick-up Truck
+100071,10/15/2024,14:46,MANHATTAN,40.760554,-73.988464,Times Square area,0,0,Traffic Control Disregarded,Taxi
+100106,04/12/2023,18:03,MANHATTAN,40.753955,-73.98327,Times Square area,0,0,Failure to Yield Right-of-Way,Box Truck
+100270,05/16/2024,06:29,MANHATTAN,40.736262,-73.992637,Union Square area,1,0,Unsafe Speed,Taxi
+100860,07/07/2024,14:32,QUEENS,40.640437,-74.112177,Unnamed Street,0,0,Driver Inattention/Distraction,Bike
+100435,08/02/2024,09:45,BROOKLYN,40.690359,-73.996107,Downtown Brooklyn,0,0,Driver Inattention/Distraction,SUV
+100102,08/25/2023,06:09,MANHATTAN,40.757173,-73.988673,Times Square area,0,0,Following Too Closely,Bike
