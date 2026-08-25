@@ -4,13 +4,6 @@ An interactive dashboard that identifies high-risk crash locations
 using **DBSCAN spatial clustering**, built on real NYC Open Data
 crash records (or the bundled synthetic sample for instant demo use).
 
-## Demo
-
-Run locally (see below). Add a screenshot/GIF here once you've run it:
-
-```
-[screenshot placeholder]
-```
 
 ## Problem
 
